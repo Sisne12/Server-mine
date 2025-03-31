@@ -105,6 +105,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_door": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
@@ -156,6 +162,12 @@
   "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-31 19:14:17 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/misc/onyx_rod": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -279,6 +291,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_boots": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
@@ -324,6 +342,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-03-31 19:38:06 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/building_blocks/onyx_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -414,6 +438,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-31 19:31:59 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -703,6 +733,12 @@
     },
     "done": true
   },
+  "simpleores:main/onyx_ore": {
+    "criteria": {
+      "got_onyx_ore": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
@@ -754,6 +790,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_bars": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -1147,6 +1189,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_shovel": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-03-31 19:31:59 +0000"
@@ -1216,6 +1264,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_hoe": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -1369,6 +1423,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_helmet": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-31 19:08:41 +0000"
@@ -1390,6 +1450,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-31 19:14:17 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_brick_slab": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -1534,6 +1600,12 @@
   "simpleores:adamantium_bars": {
     "criteria": {
       "has_item": "2025-03-31 19:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-31 20:23:53 +0000"
     },
     "done": true
   },
@@ -2029,6 +2101,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-03-31 19:13:16 +0000"
@@ -2056,6 +2134,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/building_blocks/onyx_block": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -2263,6 +2347,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_axe": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/crimson_rail_bridge": {
     "criteria": {
       "has_planks": "2025-03-31 19:47:04 +0000"
@@ -2308,6 +2398,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-31 19:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-31 20:21:19 +0000"
     },
     "done": true
   },
@@ -2713,6 +2809,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_leggings": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "simpleores:adamantium_boots": {
     "criteria": {
       "has_item": "2025-03-31 19:27:34 +0000"
@@ -2806,6 +2908,12 @@
   "simpleores:mythril_boots": {
     "criteria": {
       "has_item": "2025-03-31 19:42:27 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_sword": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -2926,6 +3034,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_wheat": "2025-03-31 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_shears": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -3109,6 +3223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-03-31 20:21:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-03-31 19:14:17 +0000"
@@ -3283,6 +3403,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/misc/onyx_gem": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-03-31 19:33:47 +0000"
@@ -3298,6 +3424,12 @@
   "simpleores:mythril_bow": {
     "criteria": {
       "has_item": "2025-03-31 19:42:27 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -3436,6 +3568,18 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-03-31 19:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-03-31 20:17:22 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_bricks": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
     },
     "done": true
   },
@@ -3643,6 +3787,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_bow": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-31 19:27:07 +0000"
@@ -3762,6 +3912,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-03-31 19:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-31 20:23:53 +0000"
     },
     "done": true
   },
