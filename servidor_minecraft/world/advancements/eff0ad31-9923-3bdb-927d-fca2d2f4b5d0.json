@@ -2047,6 +2047,12 @@
     },
     "done": true
   },
+  "simpleores:main/mythril_bow": {
+    "criteria": {
+      "got_mythril_bow": "2025-03-31 21:05:22 +0000"
+    },
+    "done": true
+  },
   "simpleores:recipes/building_blocks/raw_mythril_block": {
     "criteria": {
       "has_item": "2025-03-31 19:47:35 +0000"
