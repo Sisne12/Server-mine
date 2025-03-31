@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:07:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
@@ -266,6 +272,24 @@
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-31 20:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
     },
     "done": true
   },
@@ -314,6 +338,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-03-31 20:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
     },
     "done": true
   },
@@ -413,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-03-31 19:42:16 +0000"
@@ -428,6 +464,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_wheat": "2025-03-31 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
     },
     "done": true
   },
@@ -533,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
@@ -599,6 +647,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-03-31 20:07:11 +0000"
     },
     "done": true
   },
@@ -680,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_string": "2025-03-31 19:42:07 +0000"
@@ -713,6 +773,12 @@
   "simpleores:recipes/misc/tin_ingot": {
     "criteria": {
       "has_the_recipe": "2025-03-31 19:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
     },
     "done": true
   },
@@ -770,6 +836,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/red_sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-31 20:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-03-31 19:24:37 +0000"
@@ -800,6 +872,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-03-31 19:28:34 +0000"
@@ -823,6 +907,19 @@
       "has_item": "2025-03-31 19:58:25 +0000"
     },
     "done": true
+  },
+  "mcwbridges:recipes/balustrade_orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-31 20:07:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-03-31 20:11:52 +0000",
+      "wheat": "2025-03-31 20:11:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
@@ -1268,6 +1365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_string": "2025-03-31 19:42:07 +0000"
@@ -1376,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:34 +0000"
@@ -1445,6 +1554,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:37:11 +0000"
+    },
+    "done": true
+  },
+  "simpleores:main/copper_bucket": {
+    "criteria": {
+      "got_copper_bucket": "2025-03-31 20:08:01 +0000"
     },
     "done": true
   },
@@ -1523,6 +1638,12 @@
   "simpleores:recipes/building_blocks/tin_pressure_plate": {
     "criteria": {
       "has_item": "2025-03-31 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
     },
     "done": true
   },
@@ -1664,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
@@ -1715,6 +1842,12 @@
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
     },
     "done": true
   },
@@ -1802,6 +1935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-31 20:11:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
@@ -1835,6 +1974,18 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-03-31 19:36:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-03-31 20:07:11 +0000"
     },
     "done": true
   },
@@ -1886,6 +2037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
@@ -1913,6 +2070,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_helmet": "2025-03-31 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:07:56 +0000"
     },
     "done": true
   },
@@ -2186,6 +2349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-03-31 20:07:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
@@ -2237,6 +2406,12 @@
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-03-31 20:07:11 +0000"
     },
     "done": true
   },
@@ -2468,6 +2643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_wheat": "2025-03-31 19:24:37 +0000"
@@ -2624,6 +2805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-03-31 19:54:21 +0000"
@@ -2711,6 +2898,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_string": "2025-03-31 19:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
     },
     "done": true
   },
@@ -2813,6 +3006,12 @@
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
     },
     "done": true
   },
@@ -2987,6 +3186,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
     },
     "done": true
   },
@@ -3166,6 +3371,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-03-31 20:06:19 +0000",
+      "minecraft:beach": "2025-03-31 20:10:07 +0000",
       "minecraft:river": "2025-03-31 19:21:59 +0000",
       "minecraft:desert": "2025-03-31 19:20:35 +0000",
       "minecraft:jungle": "2025-03-31 19:36:03 +0000"
@@ -3175,6 +3382,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-03-31 19:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-31 20:11:57 +0000"
     },
     "done": true
   },
@@ -3238,6 +3451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-31 19:40:31 +0000"
@@ -3266,6 +3485,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-31 19:50:59 +0000",
       "bread": "2025-03-31 19:28:15 +0000",
+      "glow_berries": "2025-03-31 20:04:48 +0000",
       "melon_slice": "2025-03-31 19:45:27 +0000",
       "cooked_rabbit": "2025-03-31 19:52:08 +0000"
     },
@@ -3274,6 +3494,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_wheat": "2025-03-31 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-03-31 20:07:59 +0000"
     },
     "done": true
   },
@@ -3301,6 +3527,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-31 20:07:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:46:40 +0000"
@@ -3310,6 +3542,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-03-31 19:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-03-31 20:07:12 +0000"
     },
     "done": true
   },
@@ -3328,6 +3566,12 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-03-31 19:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-03-31 20:06:43 +0000"
     },
     "done": true
   },
