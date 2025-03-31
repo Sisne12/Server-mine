@@ -111,6 +111,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-31 20:29:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
@@ -216,6 +222,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-31 19:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-03-31 20:30:37 +0000"
     },
     "done": true
   },
@@ -390,6 +402,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-03-31 19:33:47 +0000"
+    },
+    "done": true
+  },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2025-03-31 20:36:00 +0000"
     },
     "done": true
   },
@@ -1006,6 +1024,12 @@
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-03-31 19:47:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-31 20:34:54 +0000"
     },
     "done": true
   },
@@ -1675,6 +1699,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-31 20:39:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
@@ -2140,6 +2170,12 @@
   "simpleores:recipes/building_blocks/onyx_block": {
     "criteria": {
       "has_item": "2025-03-31 20:20:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-31 20:34:36 +0000"
     },
     "done": true
   },
@@ -3849,6 +3885,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-03-31 20:35:09 +0000",
       "bread": "2025-03-31 19:25:04 +0000",
       "rotten_flesh": "2025-03-31 19:32:35 +0000",
       "carrot": "2025-03-31 19:16:09 +0000"

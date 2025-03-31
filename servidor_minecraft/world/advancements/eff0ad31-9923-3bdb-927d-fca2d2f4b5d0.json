@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-31 20:37:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-03-31 20:19:28 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-31 20:37:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
       "has_sweet_berries": "2025-03-31 20:19:21 +0000"
@@ -440,6 +452,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-31 20:40:11 +0000"
     },
     "done": true
   },
@@ -925,6 +943,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-31 20:37:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-03-31 19:28:52 +0000"
@@ -1213,6 +1237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-31 20:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
@@ -1387,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-03-31 20:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -1474,6 +1510,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-31 20:37:50 +0000"
     },
     "done": true
   },
@@ -2287,6 +2329,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-31 20:37:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_mangrove_planks": "2025-03-31 19:28:38 +0000"
@@ -2401,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-31 20:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-31 19:28:52 +0000"
@@ -2416,6 +2470,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-03-31 19:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-31 20:37:50 +0000"
     },
     "done": true
   },
@@ -3835,6 +3895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-31 20:37:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-03-31 19:28:52 +0000"
@@ -3862,6 +3928,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-31 20:35:14 +0000"
     },
     "done": true
   },
@@ -3894,6 +3966,7 @@
       "minecraft:eroded_badlands": "2025-03-31 19:14:39 +0000",
       "minecraft:bamboo_jungle": "2025-03-31 20:13:33 +0000",
       "minecraft:badlands": "2025-03-31 19:14:02 +0000",
+      "minecraft:beach": "2025-03-31 20:28:40 +0000",
       "minecraft:dark_forest": "2025-03-31 20:27:25 +0000",
       "minecraft:mangrove_swamp": "2025-03-31 19:24:42 +0000",
       "minecraft:sparse_jungle": "2025-03-31 20:13:03 +0000",
@@ -4020,6 +4093,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-31 20:37:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_wheat": "2025-03-31 19:16:27 +0000"
@@ -4092,6 +4171,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-31 20:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-03-31 19:47:13 +0000"
@@ -4119,6 +4204,12 @@
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "gnumus:weight_loss_protection": {
+    "criteria": {
+      "weight_loss_protection": "2025-03-31 20:35:14 +0000"
     },
     "done": true
   },
