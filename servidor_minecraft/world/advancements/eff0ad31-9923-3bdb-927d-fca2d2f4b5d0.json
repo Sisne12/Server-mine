@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-31 20:02:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-31 20:02:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
@@ -846,6 +858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-31 20:02:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
@@ -1098,6 +1116,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-03-31 20:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-31 20:02:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -1332,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-31 20:02:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
@@ -1341,6 +1377,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-03-31 19:22:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-31 20:02:53 +0000"
     },
     "done": true
   },
@@ -1599,6 +1641,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
     "criteria": {
       "has_oak_planks": "2025-03-31 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-31 20:02:40 +0000"
     },
     "done": true
   },
@@ -1866,6 +1914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-31 20:02:53 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_chestplate": {
     "criteria": {
       "has_item": "2025-03-31 19:52:17 +0000"
@@ -1965,6 +2019,12 @@
   "simpleores:copper_shovel": {
     "criteria": {
       "has_item": "2025-03-31 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-31 20:02:40 +0000"
     },
     "done": true
   },
@@ -2241,6 +2301,12 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-03-31 20:03:14 +0000"
     },
     "done": true
   },
@@ -3048,6 +3114,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-31 20:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
@@ -3165,6 +3237,12 @@
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-03-31 20:02:40 +0000"
     },
     "done": true
   },
@@ -3427,7 +3505,8 @@
       "minecraft:mangrove_swamp": "2025-03-31 19:24:42 +0000",
       "minecraft:river": "2025-03-31 19:12:50 +0000",
       "minecraft:desert": "2025-03-31 19:08:37 +0000",
-      "minecraft:windswept_savanna": "2025-03-31 19:51:35 +0000"
+      "minecraft:windswept_savanna": "2025-03-31 19:51:35 +0000",
+      "minecraft:savanna": "2025-03-31 20:02:34 +0000"
     },
     "done": false
   },
@@ -3680,6 +3759,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-31 20:02:53 +0000"
     },
     "done": true
   },
