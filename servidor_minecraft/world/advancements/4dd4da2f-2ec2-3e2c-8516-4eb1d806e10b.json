@@ -291,6 +291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-31 20:57:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:26:26 +0000"
@@ -715,6 +721,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-31 19:44:04 +0000",
       "minecraft:spider": "2025-03-31 19:59:32 +0000",
+      "minecraft:creeper": "2025-03-31 21:01:33 +0000",
       "minecraft:wither_skeleton": "2025-03-31 19:48:09 +0000",
       "minecraft:husk": "2025-03-31 19:58:45 +0000",
       "minecraft:zombie": "2025-03-31 20:00:34 +0000"
@@ -916,6 +923,12 @@
   "simpleores:recipes/misc/tin_ingot": {
     "criteria": {
       "has_item": "2025-03-31 20:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-31 20:57:39 +0000"
     },
     "done": true
   },
@@ -1777,6 +1790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-31 20:57:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:26:26 +0000"
@@ -2086,6 +2105,12 @@
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:13:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-31 20:58:09 +0000"
     },
     "done": true
   },
@@ -2686,6 +2711,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_wheat": "2025-03-31 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-31 21:01:23 +0000"
     },
     "done": true
   },

@@ -1153,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-31 20:53:11 +0000"
+    },
+    "done": true
+  },
   "simpleores:recipes/building_blocks/copper_pressure_plate": {
     "criteria": {
       "has_item": "2025-03-31 19:38:22 +0000"
