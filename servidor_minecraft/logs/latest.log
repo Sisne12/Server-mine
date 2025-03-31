@@ -1,26 +1,26 @@
-[31Mar2025 19:06:49.496] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.1, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[31Mar2025 19:06:49.509] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[31Mar2025 19:06:54.688] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[31Mar2025 19:06:54.942] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-mine/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[31Mar2025 19:06:56.096] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-mine/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.1/fmlcore-1.20.1-47.3.1.jar is missing mods.toml file
-[31Mar2025 19:06:56.100] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-mine/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.1/javafmllanguage-1.20.1-47.3.1.jar is missing mods.toml file
-[31Mar2025 19:06:56.103] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-mine/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.1/lowcodelanguage-1.20.1-47.3.1.jar is missing mods.toml file
-[31Mar2025 19:06:56.106] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-mine/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.1/mclanguage-1.20.1-47.3.1.jar is missing mods.toml file
-[31Mar2025 19:06:56.382] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[31Mar2025 19:07:02.261] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[31Mar2025 19:07:02.727] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[31Mar2025 19:07:02.733] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[31Mar2025 19:07:02.792] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[31Mar2025 19:07:02.920] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[31Mar2025 19:07:04.334] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[31Mar2025 19:07:04.341] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[31Mar2025 19:07:04.344] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[31Mar2025 19:07:09.978] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zhk000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[31Mar2025 19:07:18.651] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjf000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[31Mar2025 19:07:19.927] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[31Mar2025 21:14:38.430] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.1, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[31Mar2025 21:14:38.434] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[31Mar2025 21:14:39.978] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[31Mar2025 21:14:40.060] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-mine/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[31Mar2025 21:14:40.558] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-mine/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.1/fmlcore-1.20.1-47.3.1.jar is missing mods.toml file
+[31Mar2025 21:14:40.561] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-mine/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.1/javafmllanguage-1.20.1-47.3.1.jar is missing mods.toml file
+[31Mar2025 21:14:40.563] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-mine/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.1/lowcodelanguage-1.20.1-47.3.1.jar is missing mods.toml file
+[31Mar2025 21:14:40.565] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-mine/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.1/mclanguage-1.20.1-47.3.1.jar is missing mods.toml file
+[31Mar2025 21:14:40.797] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[31Mar2025 21:14:44.628] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[31Mar2025 21:14:44.978] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[31Mar2025 21:14:44.983] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[31Mar2025 21:14:45.057] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[31Mar2025 21:14:45.147] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[31Mar2025 21:14:46.287] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[31Mar2025 21:14:46.289] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[31Mar2025 21:14:46.291] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[31Mar2025 21:14:51.258] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zhk000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[31Mar2025 21:14:58.682] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjf000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[31Mar2025 21:14:59.783] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[31Mar2025 19:07:21.213] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@70029d2d on thread Thread[modloading-worker-0,5,main]
-[31Mar2025 19:07:21.214] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[31Mar2025 21:15:01.217] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7412a438 on thread Thread[modloading-worker-0,5,main]
+[31Mar2025 21:15:01.220] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -68,15 +68,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[31Mar2025 19:07:21.239] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[31Mar2025 19:07:22.513] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.1, for MC 1.20.1 with MCP 20230612.114412
-[31Mar2025 19:07:22.513] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.1 Initialized
-[31Mar2025 19:07:22.905] [modloading-worker-0/INFO] [mod.alexndr.simplecorelib.SimpleCoreLib/]: Hello from SimpleCoreLib!
-[31Mar2025 19:07:23.496] [modloading-worker-0/INFO] [mod.alexndr.simpleores.SimpleOres/]: Hello from Simple Ores!
-[31Mar2025 19:07:24.364] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[31Mar2025 19:07:31.124] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[31Mar2025 19:07:32.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[31Mar2025 19:07:33.245] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[31Mar2025 21:15:01.228] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[31Mar2025 21:15:03.051] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.1, for MC 1.20.1 with MCP 20230612.114412
+[31Mar2025 21:15:03.052] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.1 Initialized
+[31Mar2025 21:15:03.518] [modloading-worker-0/INFO] [mod.alexndr.simplecorelib.SimpleCoreLib/]: Hello from SimpleCoreLib!
+[31Mar2025 21:15:04.072] [modloading-worker-0/INFO] [mod.alexndr.simpleores.SimpleOres/]: Hello from Simple Ores!
+[31Mar2025 21:15:04.526] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[31Mar2025 21:15:11.041] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[31Mar2025 21:15:12.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[31Mar2025 21:15:12.985] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -91,31 +91,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[31Mar2025 19:07:33.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[31Mar2025 19:07:33.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.1 Target: 47.4.0
-[31Mar2025 19:07:33.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[31Mar2025 19:07:33.557] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[31Mar2025 19:07:33.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
-[31Mar2025 19:07:33.570] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[31Mar2025 19:07:33.592] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[31Mar2025 19:07:33.595] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[31Mar2025 19:07:33.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.20.1-1.0.7 Target: null
-[31Mar2025 19:07:33.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplecorelib] Starting version check at https://raw.githubusercontent.com/Sinhika/SimpleCoreLib/1.20/update.json
-[31Mar2025 19:07:33.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplecorelib] Found status: UP_TO_DATE Current: 1.20.1-6.0.1.2 Target: null
-[31Mar2025 19:07:33.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpleores] Starting version check at https://raw.githubusercontent.com/Sinhika/SimpleOres2/1.20/update.json
-[31Mar2025 19:07:33.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpleores] Found status: UP_TO_DATE Current: 1.20.1-6.0.0.3 Target: null
-[31Mar2025 19:07:33.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[31Mar2025 19:07:34.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[31Mar2025 19:07:34.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
-[31Mar2025 19:07:34.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
-[31Mar2025 19:07:34.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[31Mar2025 19:07:34.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
-[31Mar2025 19:07:34.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[31Mar2025 19:07:34.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.12 Target: 1.0.12
-[31Mar2025 19:07:34.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[31Mar2025 19:07:35.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[31Mar2025 19:07:35.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[31Mar2025 19:07:35.697] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[31Mar2025 21:15:12.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[31Mar2025 21:15:13.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.1 Target: 47.4.0
+[31Mar2025 21:15:13.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[31Mar2025 21:15:13.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[31Mar2025 21:15:13.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
+[31Mar2025 21:15:13.534] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[31Mar2025 21:15:13.560] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[31Mar2025 21:15:13.565] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[31Mar2025 21:15:13.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.20.1-1.0.7 Target: null
+[31Mar2025 21:15:13.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplecorelib] Starting version check at https://raw.githubusercontent.com/Sinhika/SimpleCoreLib/1.20/update.json
+[31Mar2025 21:15:13.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplecorelib] Found status: UP_TO_DATE Current: 1.20.1-6.0.1.2 Target: null
+[31Mar2025 21:15:13.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpleores] Starting version check at https://raw.githubusercontent.com/Sinhika/SimpleOres2/1.20/update.json
+[31Mar2025 21:15:13.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpleores] Found status: UP_TO_DATE Current: 1.20.1-6.0.0.3 Target: null
+[31Mar2025 21:15:13.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[31Mar2025 21:15:14.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[31Mar2025 21:15:14.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
+[31Mar2025 21:15:14.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
+[31Mar2025 21:15:14.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[31Mar2025 21:15:14.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
+[31Mar2025 21:15:14.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[31Mar2025 21:15:14.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.12 Target: 1.0.12
+[31Mar2025 21:15:14.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[31Mar2025 21:15:15.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[31Mar2025 21:15:15.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[31Mar2025 21:15:16.005] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -130,456 +130,286 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[31Mar2025 19:07:39.139] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[31Mar2025 19:07:42.401] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-mine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/assets/.mcassetsroot' uses unexpected schema
-[31Mar2025 19:07:42.402] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-mine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/data/.mcassetsroot' uses unexpected schema
-[31Mar2025 19:07:45.106] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[31Mar2025 19:07:47.906] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
-[31Mar2025 19:07:48.198] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3894 advancements
-[31Mar2025 19:07:48.231] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[31Mar2025 19:07:48.237] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[31Mar2025 19:07:48.240] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[31Mar2025 19:07:50.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[31Mar2025 19:07:50.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[31Mar2025 19:07:50.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[31Mar2025 19:07:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[31Mar2025 19:07:50.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[31Mar2025 19:07:50.822] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[31Mar2025 19:07:50.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[31Mar2025 19:07:50.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[31Mar2025 19:07:50.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[31Mar2025 19:07:50.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[31Mar2025 19:07:51.242] [Server thread/INFO] [Framework/]: Loading server configs...
-[31Mar2025 19:07:51.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[31Mar2025 19:07:52.741] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[31Mar2025 19:07:52.751] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[31Mar2025 19:07:52.763] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[31Mar2025 19:08:03.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[31Mar2025 19:08:11.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.843] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.851] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.854] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.855] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.860] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.863] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.866] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.871] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.872] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.878] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.881] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:11.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:12.057] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:12.558] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:13.057] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:13.558] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 19:08:14.418] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10862 ms
-[31Mar2025 19:08:14.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.441s)! For help, type "help"
-[31Mar2025 19:08:14.536] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[31Mar2025 19:08:17.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[31Mar2025 19:08:28.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sisinio21[/127.55.186.226:41575] logged in with entity id 819 at (-5.5, 69.0, -7.5)
-[31Mar2025 19:08:28.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 joined the game
-[31Mar2025 19:08:36.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: claaro[/127.147.94.117:39649] logged in with entity id 826 at (7.5, 71.0, 5.5)
-[31Mar2025 19:08:36.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro joined the game
-[31Mar2025 19:08:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has reached the goal [Easter]
-[31Mar2025 19:09:40.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TurnOff[/127.121.129.151:52615] logged in with entity id 1434 at (-9.5, 73.0, -1.5)
-[31Mar2025 19:09:40.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff joined the game
-[31Mar2025 19:09:40.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has reached the goal [Easter]
-[31Mar2025 19:10:08.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Alex's Mobs]
-[31Mar2025 19:13:16.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Acquire Hardware]
-[31Mar2025 19:13:16.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Crops of the Wild]
-[31Mar2025 19:14:21.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was shot by Pillager
-[31Mar2025 19:14:21.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Your First Grave]
-[31Mar2025 19:14:21.927] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
-[31Mar2025 19:14:36.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Easter Egg Searcher]
-[31Mar2025 19:15:59.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Suit Up]
-[31Mar2025 19:16:20.220] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[31Mar2025 19:16:20.235] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4e98cb57[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:55991): Unexpected custom data from client
-[31Mar2025 19:16:20.247] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e98cb57[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:55991) lost connection: Unexpected custom data from client
-[31Mar2025 19:16:29.620] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[31Mar2025 19:16:29.622] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@10eed2f9[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:58591): Unexpected custom data from client
-[31Mar2025 19:16:29.640] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10eed2f9[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:58591) lost connection: Unexpected custom data from client
-[31Mar2025 19:16:31.788] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[31Mar2025 19:16:31.791] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@20d650b8[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:57751): Unexpected custom data from client
-[31Mar2025 19:16:31.820] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20d650b8[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:57751) lost connection: Unexpected custom data from client
-[31Mar2025 19:16:45.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[31Mar2025 19:16:51.377] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[31Mar2025 19:16:51.381] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3effb1f0[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:33073): Unexpected custom data from client
-[31Mar2025 19:16:51.470] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3effb1f0[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:33073) lost connection: Unexpected custom data from client
-[31Mar2025 19:16:54.271] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[31Mar2025 19:16:54.274] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@69a8a1e1[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:45023): Unexpected custom data from client
-[31Mar2025 19:16:54.334] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69a8a1e1[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:45023) lost connection: Unexpected custom data from client
-[31Mar2025 19:17:00.563] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[31Mar2025 19:17:00.565] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6fd52d0c[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:53279): Unexpected custom data from client
-[31Mar2025 19:17:00.590] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fd52d0c[id=<null>,name=hugolacabra,properties={},legacy=false] (/127.99.181.103:53279) lost connection: Unexpected custom data from client
-[31Mar2025 19:17:08.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7802ms or 156 ticks behind
-[31Mar2025 19:17:34.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11015ms or 220 ticks behind
-[31Mar2025 19:18:02.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13183ms or 263 ticks behind
-[31Mar2025 19:18:23.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5657ms or 113 ticks behind
-[31Mar2025 19:18:40.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
-[31Mar2025 19:20:33.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hugolacabra[/127.99.181.103:52721] logged in with entity id 9340 at (3.5, 71.0, 5.5)
-[31Mar2025 19:20:33.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra joined the game
-[31Mar2025 19:20:34.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has reached the goal [Easter]
-[31Mar2025 19:21:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Alex's Mobs]
-[31Mar2025 19:21:03.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[31Mar2025 19:21:47.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TurnOff lost connection: Disconnected
-[31Mar2025 19:21:47.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff left the game
-[31Mar2025 19:22:14.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Cursed Pyramid]
-[31Mar2025 19:22:48.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Knowledge of Death]
-[31Mar2025 19:22:48.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Cover Me with Diamonds]
-[31Mar2025 19:22:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Funeral Theft]
-[31Mar2025 19:22:54.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TurnOff[/127.121.129.151:49871] logged in with entity id 11772 at (-471.20729843093363, 69.0, 271.78378496969634)
-[31Mar2025 19:22:54.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff joined the game
-[31Mar2025 19:23:37.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[31Mar2025 19:23:56.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
-[31Mar2025 19:24:17.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5715ms or 114 ticks behind
-[31Mar2025 19:24:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Monster Hunter]
-[31Mar2025 19:24:46.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [We do a little trolling...]
-[31Mar2025 19:25:59.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Sweet Dreams]
-[31Mar2025 19:26:06.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Sweet Dreams]
-[31Mar2025 19:26:11.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TurnOff> zz
-[31Mar2025 19:26:29.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was slain by Zombie
-[31Mar2025 19:26:29.826] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
-[31Mar2025 19:26:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [A Seedy Place]
-[31Mar2025 19:26:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Crops of the Wild]
-[31Mar2025 19:27:07.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Stone Age]
-[31Mar2025 19:27:22.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Magic Writing]
-[31Mar2025 19:27:25.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[31Mar2025 19:27:51.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 was slain by Zombie
-[31Mar2025 19:27:51.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Your First Grave]
-[31Mar2025 19:27:51.041] [Server thread/INFO] [tombstone/]: The player Sisinio21 has successfully been saved
-[31Mar2025 19:27:52.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Fatty Demon]
-[31Mar2025 19:28:24.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Crops of the Wild]
-[31Mar2025 19:28:43.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[31Mar2025 19:28:52.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Stone Age]
-[31Mar2025 19:29:04.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5917ms or 118 ticks behind
-[31Mar2025 19:29:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Getting an Upgrade]
-[31Mar2025 19:29:31.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Not Silver]
-[31Mar2025 19:29:52.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [No Step on Snake]
-[31Mar2025 19:30:15.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was slain by TurnOff
-[31Mar2025 19:30:15.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Your First Grave]
-[31Mar2025 19:30:15.959] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
-[31Mar2025 19:30:16.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Monster Hunter]
-[31Mar2025 19:32:03.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[31Mar2025 19:33:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Knowledge of Death]
-[31Mar2025 19:33:03.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Cover Me with Diamonds]
-[31Mar2025 19:33:03.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Your First Receptacle]
-[31Mar2025 19:33:03.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Funeral Theft]
-[31Mar2025 19:33:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [White Knight]
-[31Mar2025 19:33:44.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Enter Sandman]
-[31Mar2025 19:34:08.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Neither Gold nor Iron]
-[31Mar2025 19:34:26.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
-[31Mar2025 19:34:46.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5245ms or 104 ticks behind
-[31Mar2025 19:35:06.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
-[31Mar2025 19:35:25.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3260ms or 65 ticks behind
-[31Mar2025 19:35:42.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
-[31Mar2025 19:36:01.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3746ms or 74 ticks behind
-[31Mar2025 19:36:06.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Getting an Upgrade]
-[31Mar2025 19:36:20.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3779ms or 75 ticks behind
-[31Mar2025 19:36:35.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TurnOff lost connection: Disconnected
-[31Mar2025 19:36:35.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff left the game
-[31Mar2025 19:36:38.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
-[31Mar2025 19:36:56.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
-[31Mar2025 19:37:14.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
-[31Mar2025 19:37:31.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
-[31Mar2025 19:37:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Acquire Hardware]
-[31Mar2025 19:37:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Isn't It Iron Pick]
-[31Mar2025 19:37:49.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2943ms or 58 ticks behind
-[31Mar2025 19:38:05.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Cover Me with Diamonds]
-[31Mar2025 19:38:06.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Diamonds!]
-[31Mar2025 19:38:08.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4003ms or 80 ticks behind
-[31Mar2025 19:38:26.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[31Mar2025 19:38:44.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
-[31Mar2025 19:38:56.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Stone Age]
-[31Mar2025 19:39:03.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3916ms or 78 ticks behind
-[31Mar2025 19:39:23.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Getting an Upgrade]
-[31Mar2025 19:39:38.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19561ms or 391 ticks behind
-[31Mar2025 19:39:58.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
-[31Mar2025 19:40:16.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
-[31Mar2025 19:40:35.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4267ms or 85 ticks behind
-[31Mar2025 19:40:44.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Suit Up]
-[31Mar2025 19:40:57.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7013ms or 140 ticks behind
-[31Mar2025 19:41:18.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5922ms or 118 ticks behind
-[31Mar2025 19:41:36.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
-[31Mar2025 19:41:55.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Fatty Demon]
-[31Mar2025 19:42:03.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[31Mar2025 19:42:28.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9429ms or 188 ticks behind
-[31Mar2025 19:42:50.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6716ms or 134 ticks behind
-[31Mar2025 19:44:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Monster Hunter]
-[31Mar2025 19:44:15.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[31Mar2025 19:44:32.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[31Mar2025 19:44:52.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Neither Gold nor Iron]
-[31Mar2025 19:46:40.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Acquire Hardware]
-[31Mar2025 19:46:48.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Isn't It Iron Pick]
-[31Mar2025 19:46:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Fatty Demon]
-[31Mar2025 19:47:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Crops of the Wild]
-[31Mar2025 19:47:35.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Ooh, Pretty!]
-[31Mar2025 19:47:57.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[31Mar2025 19:48:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Knowledge of Death]
-[31Mar2025 19:48:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [A Strange Grave Dust]
-[31Mar2025 19:48:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Not Silver]
-[31Mar2025 19:48:18.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Knowledge raises the soul]
-[31Mar2025 19:48:27.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Ooh, Pretty!]
-[31Mar2025 19:48:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [A Strange Grave Dust]
-[31Mar2025 19:48:44.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Not Today, Thank You]
-[31Mar2025 19:49:37.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[31Mar2025 19:49:54.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[31Mar2025 19:50:46.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[31Mar2025 19:51:07.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[31Mar2025 19:51:26.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[31Mar2025 19:51:46.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4524ms or 90 ticks behind
-[31Mar2025 19:52:05.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4376ms or 87 ticks behind
-[31Mar2025 19:52:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Ice Bucket Challenge]
-[31Mar2025 19:52:17.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Ninja Ore]
-[31Mar2025 19:52:23.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
-[31Mar2025 19:52:40.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
-[31Mar2025 19:53:35.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[31Mar2025 19:54:04.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[31Mar2025 19:54:47.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [Powder Snow Walk]
-[31Mar2025 19:55:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Knowledge of Death]
-[31Mar2025 19:55:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Easter Egg Searcher]
-[31Mar2025 19:56:05.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[31Mar2025 19:56:13.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Suit Up]
-[31Mar2025 19:56:23.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
-[31Mar2025 19:56:41.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
-[31Mar2025 19:57:00.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [An Ancient Tomb]
-[31Mar2025 19:57:01.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5364ms or 107 ticks behind
-[31Mar2025 19:57:24.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7535ms or 150 ticks behind
-[31Mar2025 19:57:42.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3440ms or 68 ticks behind
-[31Mar2025 19:57:59.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
-[31Mar2025 19:58:17.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
-[31Mar2025 19:58:39.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6682ms or 133 ticks behind
-[31Mar2025 19:58:57.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
-[31Mar2025 19:59:08.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claaro moved too quickly! 10.250321325877167,0.0,0.14693490930068265
-[31Mar2025 19:59:18.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6031ms or 120 ticks behind
-[31Mar2025 19:59:36.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
-[31Mar2025 19:59:55.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
-[31Mar2025 20:00:21.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11676ms or 233 ticks behind
-[31Mar2025 20:00:34.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Ashes 'n Bones]
-[31Mar2025 20:00:40.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
-[31Mar2025 20:00:59.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
-[31Mar2025 20:01:17.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
-[31Mar2025 20:01:35.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3087ms or 61 ticks behind
-[31Mar2025 20:01:53.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
-[31Mar2025 20:02:11.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
-[31Mar2025 20:02:28.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
-[31Mar2025 20:02:45.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
-[31Mar2025 20:03:03.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3103ms or 62 ticks behind
-[31Mar2025 20:03:14.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Alex's Mobs]
-[31Mar2025 20:03:22.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3800ms or 76 ticks behind
-[31Mar2025 20:03:35.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Funeral Theft]
-[31Mar2025 20:03:43.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6300ms or 126 ticks behind
-[31Mar2025 20:04:02.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
-[31Mar2025 20:04:21.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4772ms or 95 ticks behind
-[31Mar2025 20:04:42.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[31Mar2025 20:05:00.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
-[31Mar2025 20:05:26.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11696ms or 233 ticks behind
-[31Mar2025 20:05:48.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7152ms or 143 ticks behind
-[31Mar2025 20:06:13.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[31Mar2025 20:06:37.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8809ms or 176 ticks behind
-[31Mar2025 20:06:43.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Diamonds!]
-[31Mar2025 20:06:58.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5991ms or 119 ticks behind
-[31Mar2025 20:07:18.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5351ms or 107 ticks behind
-[31Mar2025 20:07:43.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9370ms or 187 ticks behind
-[31Mar2025 20:08:01.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3586ms or 71 ticks behind
-[31Mar2025 20:08:01.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Caution: Don't Use On Lava]
-[31Mar2025 20:08:03.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/39689, l='ServerLevel[world]', x=-80.84, y=105.60, z=1061.31] died: Dinnerbone was shot by Dinnerbone
-[31Mar2025 20:08:07.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TurnOff[/127.121.129.151:50641] logged in with entity id 40403 at (-839.2641134664327, 66.0, 1251.3508231277956)
-[31Mar2025 20:08:07.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff joined the game
-[31Mar2025 20:08:22.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5769ms or 115 ticks behind
-[31Mar2025 20:08:46.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8991ms or 179 ticks behind
-[31Mar2025 20:09:03.770] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[31Mar2025 20:09:05.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
-[31Mar2025 20:09:16.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Take Aim]
-[31Mar2025 20:09:20.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/39956, l='ServerLevel[world]', x=-83.65, y=107.60, z=1069.31] died: Dinnerbone was shot by Sisinio21
-[31Mar2025 20:09:23.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[31Mar2025 20:09:45.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7847ms or 156 ticks behind
-[31Mar2025 20:10:05.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4970ms or 99 ticks behind
-[31Mar2025 20:10:34.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13422ms or 268 ticks behind
-[31Mar2025 20:10:56.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7193ms or 143 ticks behind
-[31Mar2025 20:11:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [A Seedy Place]
-[31Mar2025 20:12:24.971] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[31Mar2025 20:12:27.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[31Mar2025 20:12:49.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7496ms or 149 ticks behind
-[31Mar2025 20:13:08.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4247ms or 84 ticks behind
-[31Mar2025 20:13:30.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6788ms or 135 ticks behind
-[31Mar2025 20:13:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Acquire Hardware]
-[31Mar2025 20:13:46.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Suit Up]
-[31Mar2025 20:13:49.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Isn't It Iron Pick]
-[31Mar2025 20:13:54.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8988ms or 179 ticks behind
-[31Mar2025 20:14:12.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Antiquity Shard]
-[31Mar2025 20:14:14.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5203ms or 104 ticks behind
-[31Mar2025 20:14:29.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Ooh, Pretty!]
-[31Mar2025 20:14:36.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6423ms or 128 ticks behind
-[31Mar2025 20:14:39.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Monster Hunter]
-[31Mar2025 20:14:59.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8218ms or 164 ticks behind
-[31Mar2025 20:15:21.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6959ms or 139 ticks behind
-[31Mar2025 20:15:32.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Stone Age]
-[31Mar2025 20:15:39.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2980ms or 59 ticks behind
-[31Mar2025 20:16:02.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[31Mar2025 20:16:38.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[31Mar2025 20:16:58.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4806ms or 96 ticks behind
-[31Mar2025 20:17:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [A Strange Grave Dust]
-[31Mar2025 20:17:15.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
-[31Mar2025 20:17:22.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Not Silver]
-[31Mar2025 20:17:35.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5506ms or 110 ticks behind
-[31Mar2025 20:17:53.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
-[31Mar2025 20:18:14.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5824ms or 116 ticks behind
-[31Mar2025 20:18:34.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5145ms or 102 ticks behind
-[31Mar2025 20:18:56.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6792ms or 135 ticks behind
-[31Mar2025 20:19:01.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Easter Egg Searcher]
-[31Mar2025 20:19:14.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
-[31Mar2025 20:19:33.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Easter Egg Searcher]
-[31Mar2025 20:19:35.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
-[31Mar2025 20:19:53.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
-[31Mar2025 20:20:03.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[31Mar2025 20:20:24.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TurnOff moved wrongly!
-[31Mar2025 20:20:27.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Ninja Ore]
-[31Mar2025 20:20:34.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
-[31Mar2025 20:20:53.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[31Mar2025 20:21:14.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5703ms or 114 ticks behind
-[31Mar2025 20:21:50.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[31Mar2025 20:22:07.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
-[31Mar2025 20:22:27.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[31Mar2025 20:22:58.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[31Mar2025 20:24:16.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[31Mar2025 20:24:20.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Vasebreaker]
-[31Mar2025 20:24:35.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3592ms or 71 ticks behind
-[31Mar2025 20:25:17.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has reached the goal [Dinner's Served!]
-[31Mar2025 20:26:04.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[31Mar2025 20:27:09.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[31Mar2025 20:27:23.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Mine? Mine? Mine?]
-[31Mar2025 20:27:28.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4363ms or 87 ticks behind
-[31Mar2025 20:27:49.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6105ms or 122 ticks behind
-[31Mar2025 20:28:17.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12814ms or 256 ticks behind
-[31Mar2025 20:28:31.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Ashes 'n Bones]
-[31Mar2025 20:28:36.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
-[31Mar2025 20:28:47.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was blown up by Creeper
-[31Mar2025 20:28:47.446] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
-[31Mar2025 20:28:56.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5117ms or 102 ticks behind
-[31Mar2025 20:29:15.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4020ms or 80 ticks behind
-[31Mar2025 20:29:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Diamonds!]
-[31Mar2025 20:29:26.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [A self-respecting Soul]
-[31Mar2025 20:29:36.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6051ms or 121 ticks behind
-[31Mar2025 20:29:57.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6052ms or 121 ticks behind
-[31Mar2025 20:30:20.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7833ms or 156 ticks behind
-[31Mar2025 20:30:41.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6429ms or 128 ticks behind
-[31Mar2025 20:31:03.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6677ms or 133 ticks behind
-[31Mar2025 20:31:30.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12326ms or 246 ticks behind
-[31Mar2025 20:31:56.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10242ms or 204 ticks behind
-[31Mar2025 20:32:18.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[31Mar2025 20:32:38.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5786ms or 115 ticks behind
-[31Mar2025 20:32:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Ashes 'n Bones]
-[31Mar2025 20:33:07.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Neither Gold nor Iron]
-[31Mar2025 20:33:10.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[31Mar2025 20:33:27.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
-[31Mar2025 20:33:45.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
-[31Mar2025 20:34:03.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
-[31Mar2025 20:34:22.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4450ms or 89 ticks behind
-[31Mar2025 20:34:36.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [Like a bird]
-[31Mar2025 20:34:42.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[31Mar2025 20:35:09.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11291ms or 225 ticks behind
-[31Mar2025 20:35:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Weight Loss Protection]
-[31Mar2025 20:35:27.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
-[31Mar2025 20:35:31.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has reached the goal [Dinner's Served!]
-[31Mar2025 20:35:45.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
-[31Mar2025 20:36:00.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Fatty Demon]
-[31Mar2025 20:36:03.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
-[31Mar2025 20:36:21.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3359ms or 67 ticks behind
-[31Mar2025 20:36:38.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
-[31Mar2025 20:37:03.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10435ms or 208 ticks behind
-[31Mar2025 20:37:23.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4422ms or 88 ticks behind
-[31Mar2025 20:37:40.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
-[31Mar2025 20:37:57.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
-[31Mar2025 20:38:14.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[31Mar2025 20:38:34.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[31Mar2025 20:38:52.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind
-[31Mar2025 20:39:11.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [Great minds think alike]
-[31Mar2025 20:39:11.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4089ms or 81 ticks behind
-[31Mar2025 20:39:40.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[31Mar2025 20:40:48.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[31Mar2025 20:40:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Where Is The Stone Pen?]
-[31Mar2025 20:41:39.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
-[31Mar2025 20:42:09.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15251ms or 305 ticks behind
-[31Mar2025 20:43:01.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[31Mar2025 20:43:05.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [An Ancient Tomb]
-[31Mar2025 20:43:11.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [An Ancient Tomb]
-[31Mar2025 20:44:12.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[31Mar2025 20:44:37.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[31Mar2025 20:44:57.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[31Mar2025 20:45:16.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[31Mar2025 20:45:36.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [A little cleaning is necessary]
-[31Mar2025 20:45:40.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[31Mar2025 20:45:57.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[31Mar2025 20:46:14.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[31Mar2025 20:46:34.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[31Mar2025 20:47:08.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[31Mar2025 20:47:25.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
-[31Mar2025 20:47:46.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[31Mar2025 20:48:25.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[31Mar2025 20:49:00.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[31Mar2025 20:49:18.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[31Mar2025 20:52:17.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[31Mar2025 20:52:38.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6136ms or 122 ticks behind
-[31Mar2025 20:56:42.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[31Mar2025 20:58:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [Death Will Not Be Enough]
-[31Mar2025 20:58:15.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[31Mar2025 20:58:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Take Aim]
-[31Mar2025 20:58:35.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[31Mar2025 20:58:52.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[31Mar2025 20:59:30.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
-[31Mar2025 20:59:36.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[31Mar2025 20:59:53.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
-[31Mar2025 21:00:11.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[31Mar2025 21:00:55.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[31Mar2025 21:01:28.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[31Mar2025 21:02:26.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[31Mar2025 21:02:45.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[31Mar2025 21:03:06.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6413ms or 128 ticks behind
-[31Mar2025 21:03:46.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[31Mar2025 21:04:07.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[31Mar2025 21:05:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Mystical Bow]
-[31Mar2025 21:05:41.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[31Mar2025 21:06:02.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6356ms or 127 ticks behind
-[31Mar2025 21:06:23.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5493ms or 109 ticks behind
-[31Mar2025 21:06:45.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6758ms or 135 ticks behind
-[31Mar2025 21:07:02.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
-[31Mar2025 21:07:21.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
-[31Mar2025 21:07:44.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
-[31Mar2025 21:07:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Take Aim]
-[31Mar2025 21:08:17.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[31Mar2025 21:08:34.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[31Mar2025 21:09:05.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[31Mar2025 21:09:24.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[31Mar2025 21:09:54.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[31Mar2025 21:10:00.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Ashes 'n Bones]
-[31Mar2025 21:10:11.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[31Mar2025 21:10:24.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [A Strange Grave Dust]
-[31Mar2025 21:10:29.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
-[31Mar2025 21:10:47.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
-[31Mar2025 21:11:05.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2802ms or 56 ticks behind
-[31Mar2025 21:11:24.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4212ms or 84 ticks behind
-[31Mar2025 21:11:42.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
-[31Mar2025 21:12:06.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[31Mar2025 21:12:24.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[31Mar2025 21:13:12.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[31Mar2025 21:13:23.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[31Mar2025 21:13:23.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[31Mar2025 21:13:23.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claaro lost connection: Server closed
-[31Mar2025 21:13:23.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro left the game
-[31Mar2025 21:13:23.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TurnOff lost connection: Server closed
-[31Mar2025 21:13:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff left the game
-[31Mar2025 21:13:23.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[31Mar2025 21:13:29.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[31Mar2025 21:13:35.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[31Mar2025 21:13:35.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[31Mar2025 21:13:35.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[31Mar2025 21:13:35.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[31Mar2025 21:13:35.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[31Mar2025 21:13:35.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[31Mar2025 21:13:36.205] [Server thread/INFO] [Framework/]: Unloading server configs...
-[31Mar2025 21:13:36.228] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[31Mar2025 21:13:36.239] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31Mar2025 21:15:17.977] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[31Mar2025 21:15:20.713] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-mine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/assets/.mcassetsroot' uses unexpected schema
+[31Mar2025 21:15:20.714] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-mine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/data/.mcassetsroot' uses unexpected schema
+[31Mar2025 21:15:23.250] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[31Mar2025 21:15:25.967] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[31Mar2025 21:15:26.302] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3894 advancements
+[31Mar2025 21:15:26.367] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[31Mar2025 21:15:26.373] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[31Mar2025 21:15:26.377] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[31Mar2025 21:15:28.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[31Mar2025 21:15:28.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[31Mar2025 21:15:28.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[31Mar2025 21:15:28.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[31Mar2025 21:15:28.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[31Mar2025 21:15:28.840] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[31Mar2025 21:15:28.980] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[31Mar2025 21:15:28.980] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[31Mar2025 21:15:28.980] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[31Mar2025 21:15:28.981] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[31Mar2025 21:15:29.259] [Server thread/INFO] [Framework/]: Loading server configs...
+[31Mar2025 21:15:29.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[31Mar2025 21:15:30.455] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[31Mar2025 21:15:30.466] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[31Mar2025 21:15:30.480] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[31Mar2025 21:15:39.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[31Mar2025 21:15:49.464] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.480] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.483] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.487] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.491] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.493] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.501] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.504] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.507] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.508] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.511] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.515] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.519] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.523] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.526] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.530] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.534] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.538] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.542] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:49.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:50.294] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:50.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:51.293] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:51.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:52.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Mar2025 21:15:52.932] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13640 ms
+[31Mar2025 21:15:52.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.939s)! For help, type "help"
+[31Mar2025 21:15:53.048] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[31Mar2025 21:16:14.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TurnOff[/127.121.129.151:49693] logged in with entity id 732 at (-847.5291022839017, 60.0, 1089.0018508056125)
+[31Mar2025 21:16:14.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff joined the game
+[31Mar2025 21:16:18.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
+[31Mar2025 21:16:20.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sisinio21[/127.55.186.226:52393] logged in with entity id 869 at (-412.5611714960387, 24.0, 125.03482607247948)
+[31Mar2025 21:16:20.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 joined the game
+[31Mar2025 21:16:22.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hugolacabra[/127.99.181.103:48305] logged in with entity id 875 at (-846.6562067383221, 60.0, 1088.1748322131866)
+[31Mar2025 21:16:22.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra joined the game
+[31Mar2025 21:16:36.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2715ms or 54 ticks behind
+[31Mar2025 21:16:39.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: claaro[/127.147.94.117:54263] logged in with entity id 1079 at (2200.0467707937087, 46.0, 601.6425913104451)
+[31Mar2025 21:16:39.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro joined the game
+[31Mar2025 21:16:54.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3487ms or 69 ticks behind
+[31Mar2025 21:17:41.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6435ms or 128 ticks behind
+[31Mar2025 21:17:58.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[31Mar2025 21:18:22.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[31Mar2025 21:19:17.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[31Mar2025 21:20:13.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[31Mar2025 21:20:57.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claaro lost connection: Disconnected
+[31Mar2025 21:20:57.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro left the game
+[31Mar2025 21:21:08.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: claaro[/127.147.94.117:34393] logged in with entity id 3332 at (2200.710972543223, 45.0, 603.8344060934289)
+[31Mar2025 21:21:08.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro joined the game
+[31Mar2025 21:22:26.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[31Mar2025 21:22:43.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Mar2025 21:23:52.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Not Silver]
+[31Mar2025 21:24:23.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[31Mar2025 21:27:49.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [Strong or Careful]
+[31Mar2025 21:27:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 was slain by Ferrous Wroughtnaut
+[31Mar2025 21:27:49.611] [Server thread/INFO] [tombstone/]: The player Sisinio21 has successfully been saved
+[31Mar2025 21:27:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has reached the goal [Bone Crusher]
+[31Mar2025 21:28:19.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Mar2025 21:28:26.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro disturbed the avatar of Ah Puch, the Lord of Death and Darkness
+[31Mar2025 21:34:01.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Eye of The Storm]
+[31Mar2025 21:34:03.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Eye of The Storm]
+[31Mar2025 21:35:24.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Alex's Caves]
+[31Mar2025 21:38:08.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[31Mar2025 21:38:15.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has completed the challenge [Just a Flesh Wound]
+[31Mar2025 21:38:27.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
+[31Mar2025 21:38:45.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
+[31Mar2025 21:39:05.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4562ms or 91 ticks behind
+[31Mar2025 21:39:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Mine? Mine? Mine?]
+[31Mar2025 21:39:29.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9023ms or 180 ticks behind
+[31Mar2025 21:39:37.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Mine? Mine? Mine?]
+[31Mar2025 21:39:56.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12422ms or 248 ticks behind
+[31Mar2025 21:40:08.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [It Belongs in a Museum]
+[31Mar2025 21:40:20.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8830ms or 176 ticks behind
+[31Mar2025 21:40:47.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12054ms or 241 ticks behind
+[31Mar2025 21:41:10.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7786ms or 155 ticks behind
+[31Mar2025 21:41:29.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4389ms or 87 ticks behind
+[31Mar2025 21:41:49.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5142ms or 102 ticks behind
+[31Mar2025 21:42:15.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10322ms or 206 ticks behind
+[31Mar2025 21:42:34.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4722ms or 94 ticks behind
+[31Mar2025 21:42:55.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5801ms or 116 ticks behind
+[31Mar2025 21:43:17.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6590ms or 131 ticks behind
+[31Mar2025 21:43:40.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[31Mar2025 21:44:05.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10644ms or 212 ticks behind
+[31Mar2025 21:44:28.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7629ms or 152 ticks behind
+[31Mar2025 21:44:53.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9947ms or 198 ticks behind
+[31Mar2025 21:45:19.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10837ms or 216 ticks behind
+[31Mar2025 21:45:44.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10616ms or 212 ticks behind
+[31Mar2025 21:46:07.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Vasebreaker]
+[31Mar2025 21:46:11.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11588ms or 231 ticks behind
+[31Mar2025 21:46:36.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9933ms or 198 ticks behind
+[31Mar2025 21:46:59.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8587ms or 171 ticks behind
+[31Mar2025 21:47:01.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Fragile But Effective]
+[31Mar2025 21:47:23.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8943ms or 178 ticks behind
+[31Mar2025 21:47:46.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7806ms or 156 ticks behind
+[31Mar2025 21:48:09.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8094ms or 161 ticks behind
+[31Mar2025 21:48:22.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Your First Receptacle]
+[31Mar2025 21:48:30.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6409ms or 128 ticks behind
+[31Mar2025 21:48:50.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[31Mar2025 21:49:10.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Green is Good]
+[31Mar2025 21:49:12.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7821ms or 156 ticks behind
+[31Mar2025 21:49:31.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3387ms or 67 ticks behind
+[31Mar2025 21:49:48.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Once Upon a Cave]
+[31Mar2025 21:49:53.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7793ms or 155 ticks behind
+[31Mar2025 21:50:12.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3623ms or 72 ticks behind
+[31Mar2025 21:50:36.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8723ms or 174 ticks behind
+[31Mar2025 21:50:58.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7253ms or 145 ticks behind
+[31Mar2025 21:51:19.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6283ms or 125 ticks behind
+[31Mar2025 21:51:43.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8407ms or 168 ticks behind
+[31Mar2025 21:51:58.546] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[31Mar2025 21:51:58.552] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[31Mar2025 21:51:58.863] [Worker-Main-38/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[31Mar2025 21:51:58.884] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[31Mar2025 21:51:58.886] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[31Mar2025 21:51:58.887] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[31Mar2025 21:52:04.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5955ms or 119 ticks behind
+[31Mar2025 21:52:10.003] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[31Mar2025 21:52:10.004] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[31Mar2025 21:52:26.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7478ms or 149 ticks behind
+[31Mar2025 21:52:49.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7839ms or 156 ticks behind
+[31Mar2025 21:53:06.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[31Mar2025 21:53:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [The Imperial March]
+[31Mar2025 21:53:42.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[31Mar2025 21:54:01.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3775ms or 75 ticks behind
+[31Mar2025 21:54:18.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[31Mar2025 21:54:35.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[31Mar2025 21:54:54.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3817ms or 76 ticks behind
+[31Mar2025 21:55:07.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sisinio21 moved wrongly!
+[31Mar2025 21:55:15.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[31Mar2025 21:55:24.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sisinio21 moved wrongly!
+[31Mar2025 21:55:24.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sisinio21 moved wrongly!
+[31Mar2025 21:55:54.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[31Mar2025 21:56:15.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5643ms or 112 ticks behind
+[31Mar2025 21:56:43.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[31Mar2025 22:00:47.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [The Imperial March]
+[31Mar2025 22:01:04.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[31Mar2025 22:04:47.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Spooky Scary Skeleton]
+[31Mar2025 22:05:34.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has reached the goal [Strong or Careful]
+[31Mar2025 22:05:34.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff withered away whilst fighting Wither Skeleton
+[31Mar2025 22:05:34.629] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
+[31Mar2025 22:05:41.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Extreme Weeding]
+[31Mar2025 22:05:45.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[31Mar2025 22:06:21.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has reached the goal [Strong or Careful]
+[31Mar2025 22:06:21.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro was killed by magic
+[31Mar2025 22:06:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Your First Grave]
+[31Mar2025 22:06:21.717] [Server thread/INFO] [tombstone/]: The player claaro has successfully been saved
+[31Mar2025 22:07:02.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has reached the goal [Here They Come]
+[31Mar2025 22:07:03.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was slain by Wither Skeleton
+[31Mar2025 22:07:03.455] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
+[31Mar2025 22:07:43.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[31Mar2025 22:08:01.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
+[31Mar2025 22:08:29.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[31Mar2025 22:08:47.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[31Mar2025 22:09:04.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[31Mar2025 22:09:09.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra lost connection: Disconnected
+[31Mar2025 22:09:09.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra left the game
+[31Mar2025 22:09:13.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TurnOff lost connection: Disconnected
+[31Mar2025 22:09:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff left the game
+[31Mar2025 22:09:21.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hugolacabra[/127.99.181.103:34637] logged in with entity id 32955 at (-1888.699999988079, 201.0, 983.3090324413013)
+[31Mar2025 22:09:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra joined the game
+[31Mar2025 22:09:23.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TurnOff[/127.121.129.151:39539] logged in with entity id 32965 at (-1887.7825209429595, 201.0, 985.8619147784843)
+[31Mar2025 22:09:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff joined the game
+[31Mar2025 22:10:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Knowledge raises the soul]
+[31Mar2025 22:10:55.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[31Mar2025 22:11:26.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[31Mar2025 22:11:44.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3439ms or 68 ticks behind
+[31Mar2025 22:12:03.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
+[31Mar2025 22:12:26.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7754ms or 155 ticks behind
+[31Mar2025 22:12:48.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7055ms or 141 ticks behind
+[31Mar2025 22:13:09.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6314ms or 126 ticks behind
+[31Mar2025 22:13:32.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8274ms or 165 ticks behind
+[31Mar2025 22:13:52.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4210ms or 84 ticks behind
+[31Mar2025 22:14:11.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4341ms or 86 ticks behind
+[31Mar2025 22:14:36.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10162ms or 203 ticks behind
+[31Mar2025 22:14:56.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
+[31Mar2025 22:15:17.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5930ms or 118 ticks behind
+[31Mar2025 22:15:37.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
+[31Mar2025 22:15:54.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[31Mar2025 22:16:11.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has reached the goal [Strong or Careful]
+[31Mar2025 22:16:11.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was slain by Wither Skeleton
+[31Mar2025 22:16:11.795] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[31Mar2025 22:16:16.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[31Mar2025 22:16:34.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
+[31Mar2025 22:16:35.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has reached the goal [Here They Come]
+[31Mar2025 22:16:51.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[31Mar2025 22:17:09.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[31Mar2025 22:17:26.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sisinio21 moved wrongly!
+[31Mar2025 22:17:27.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
+[31Mar2025 22:17:47.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5726ms or 114 ticks behind
+[31Mar2025 22:18:08.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5661ms or 113 ticks behind
+[31Mar2025 22:18:26.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[31Mar2025 22:18:43.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[31Mar2025 22:18:52.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has reached the goal [Heliomancer]
+[31Mar2025 22:18:52.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Mutual Aid]
+[31Mar2025 22:19:04.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6147ms or 122 ticks behind
+[31Mar2025 22:19:21.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[31Mar2025 22:19:39.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[31Mar2025 22:19:56.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[31Mar2025 22:20:14.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[31Mar2025 22:20:21.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
+[31Mar2025 22:20:44.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
+[31Mar2025 22:20:45.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra withered away whilst fighting Wither Skeleton
+[31Mar2025 22:20:45.878] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[31Mar2025 22:21:07.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was slain by Wither Skeleton
+[31Mar2025 22:21:07.888] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
+[31Mar2025 22:21:16.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Ooh, Pretty!]
+[31Mar2025 22:21:38.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has reached the goal [Here They Come]
+[31Mar2025 22:22:12.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
+[31Mar2025 22:22:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was slain by Wither Skeleton
+[31Mar2025 22:22:13.642] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[31Mar2025 22:22:29.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[31Mar2025 22:22:52.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Mar2025 22:23:09.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[31Mar2025 22:23:27.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[31Mar2025 22:23:34.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Sheer, Absolute Ownage]
+[31Mar2025 22:24:00.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Mar2025 22:24:19.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[31Mar2025 22:24:29.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was slain by Wither Skeleton
+[31Mar2025 22:24:29.623] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[31Mar2025 22:24:36.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[31Mar2025 22:24:54.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[31Mar2025 22:25:12.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[31Mar2025 22:25:28.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has reached the goal [Chain Death]
+[31Mar2025 22:25:28.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was slain by Hoglin
+[31Mar2025 22:25:28.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
+[31Mar2025 22:25:28.300] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[31Mar2025 22:25:29.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[31Mar2025 22:26:04.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[31Mar2025 22:26:21.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[31Mar2025 22:26:33.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was slain by Wither Skeleton
+[31Mar2025 22:26:33.125] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
+[31Mar2025 22:26:39.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sisinio21 lost connection: Disconnected
+[31Mar2025 22:26:39.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 left the game
+[31Mar2025 22:26:39.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[31Mar2025 22:27:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was slain by Hoglin
+[31Mar2025 22:27:29.083] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[31Mar2025 22:27:53.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was slain by Wither Skeleton
+[31Mar2025 22:27:53.355] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
+[31Mar2025 22:29:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Sheer, Absolute Ownage]
+[31Mar2025 22:31:00.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TurnOff lost connection: Disconnected
+[31Mar2025 22:31:00.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff left the game
+[31Mar2025 22:31:02.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra lost connection: Disconnected
+[31Mar2025 22:31:02.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra left the game
+[31Mar2025 22:31:05.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claaro lost connection: Disconnected
+[31Mar2025 22:31:05.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro left the game
+[31Mar2025 22:31:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2025 22:31:23.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2025 22:31:23.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2025 22:31:23.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Mar2025 22:31:23.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Mar2025 22:31:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Mar2025 22:31:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2025 22:31:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2025 22:31:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2025 22:31:23.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2025 22:31:23.574] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Mar2025 22:31:23.579] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31Mar2025 22:31:23.584] [Server thread/INFO] [Framework/]: Finished unloading server configs
