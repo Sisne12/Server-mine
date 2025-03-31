@@ -3813,3 +3813,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [31Mar2025 19:38:26.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
 [31Mar2025 19:38:44.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
 [31Mar2025 19:38:56.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Stone Age]
+[31Mar2025 19:39:03.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3916ms or 78 ticks behind
+[31Mar2025 19:39:23.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Getting an Upgrade]
+[31Mar2025 19:39:38.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19561ms or 391 ticks behind
+[31Mar2025 19:39:58.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[31Mar2025 19:40:16.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[31Mar2025 19:40:35.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4267ms or 85 ticks behind
+[31Mar2025 19:40:44.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Suit Up]
+[31Mar2025 19:40:55.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 19:40:55.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 19:40:57.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7013ms or 140 ticks behind
+[31Mar2025 19:41:18.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5922ms or 118 ticks behind
+[31Mar2025 19:41:36.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[31Mar2025 19:41:55.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Fatty Demon]
+[31Mar2025 19:42:03.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[31Mar2025 19:42:28.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9429ms or 188 ticks behind
+[31Mar2025 19:42:50.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6716ms or 134 ticks behind
+[31Mar2025 19:44:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Monster Hunter]
+[31Mar2025 19:44:15.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[31Mar2025 19:44:32.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[31Mar2025 19:44:52.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Neither Gold nor Iron]
+[31Mar2025 19:46:28.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 19:46:28.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 19:46:40.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Acquire Hardware]
+[31Mar2025 19:46:48.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Isn't It Iron Pick]
+[31Mar2025 19:46:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Fatty Demon]
+[31Mar2025 19:47:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Crops of the Wild]
+[31Mar2025 19:47:35.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Ooh, Pretty!]
+[31Mar2025 19:47:57.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[31Mar2025 19:48:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Knowledge of Death]
+[31Mar2025 19:48:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [A Strange Grave Dust]
+[31Mar2025 19:48:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Not Silver]
+[31Mar2025 19:48:18.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Knowledge raises the soul]
+[31Mar2025 19:48:27.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Ooh, Pretty!]
+[31Mar2025 19:48:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [A Strange Grave Dust]
+[31Mar2025 19:48:44.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Not Today, Thank You]
