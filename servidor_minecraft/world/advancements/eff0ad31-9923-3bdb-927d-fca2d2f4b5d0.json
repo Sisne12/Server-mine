@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_door": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/misc/onyx_rod": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
@@ -101,6 +113,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-31 19:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-31 19:52:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
@@ -125,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
   "simpleores:tin_bars": {
     "criteria": {
       "has_item": "2025-03-31 19:32:58 +0000"
@@ -140,6 +170,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_shears": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -173,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
@@ -203,6 +245,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_boots": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -212,6 +260,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -239,6 +293,36 @@
     },
     "done": true
   },
+  "simpleores:recipes/building_blocks/onyx_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_bricks": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-31 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2025-03-31 19:46:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -263,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-31 19:28:52 +0000"
@@ -278,6 +368,18 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-03-31 19:34:08 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
     },
     "done": true
   },
@@ -317,9 +419,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -329,9 +443,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-31 19:52:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-03-31 19:47:11 +0000"
     },
     "done": true
   },
@@ -344,6 +470,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
     },
     "done": true
   },
@@ -425,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-03-31 19:46:05 +0000"
@@ -457,7 +595,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-03-31 19:30:16 +0000"
+      "minecraft:skeleton": "2025-03-31 19:30:16 +0000",
+      "minecraft:zombie": "2025-03-31 19:48:27 +0000"
     },
     "done": false
   },
@@ -485,6 +624,12 @@
     },
     "done": true
   },
+  "simpleores:main/onyx_ore": {
+    "criteria": {
+      "got_onyx_ore": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -503,9 +648,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_sword": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -527,9 +684,27 @@
     },
     "done": true
   },
+  "simpleores:onyx_bars": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-31 19:47:13 +0000"
     },
     "done": true
   },
@@ -629,9 +804,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
   "simpleores:tin_pickaxe": {
     "criteria": {
       "has_item": "2025-03-31 19:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-31 19:47:13 +0000"
     },
     "done": true
   },
@@ -671,6 +858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-03-31 19:16:09 +0000"
@@ -686,6 +879,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_mangrove_planks": "2025-03-31 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-31 19:55:52 +0000"
     },
     "done": true
   },
@@ -713,6 +912,12 @@
     },
     "done": true
   },
+  "simpleores:mythril_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-31 19:37:36 +0000"
@@ -722,6 +927,12 @@
   "simpleores:copper_pickaxe": {
     "criteria": {
       "has_item": "2025-03-31 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
     },
     "done": true
   },
@@ -815,6 +1026,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_shovel": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "simpleores:tin_leggings": {
     "criteria": {
       "has_item": "2025-03-31 19:32:58 +0000"
@@ -875,6 +1092,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_hoe": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -890,6 +1113,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-31 19:10:00 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/misc/mythril_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -920,6 +1149,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/misc/mythril_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-03-31 19:47:35 +0000"
     },
     "done": true
   },
@@ -956,6 +1191,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
     },
     "done": true
   },
@@ -1001,6 +1242,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_helmet": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-31 19:10:00 +0000"
@@ -1016,6 +1263,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_brick_slab": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
     },
     "done": true
   },
@@ -1046,6 +1299,12 @@
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-03-31 19:34:08 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-03-31 19:57:00 +0000"
     },
     "done": true
   },
@@ -1115,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-31 19:52:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 19:38:22 +0000"
@@ -1124,6 +1389,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-31 19:55:52 +0000"
     },
     "done": true
   },
@@ -1142,6 +1413,12 @@
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
       "has_planks": "2025-03-31 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
     },
     "done": true
   },
@@ -1175,6 +1452,12 @@
     },
     "done": true
   },
+  "simpleores:mythril_hoe": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-03-31 19:37:36 +0000"
@@ -1193,9 +1476,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-31 19:50:23 +0000"
     },
     "done": true
   },
@@ -1214,6 +1509,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-31 19:30:16 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/building_blocks/mythril_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -1253,6 +1554,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/misc/mythril_nugget": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-31 19:10:00 +0000"
@@ -1268,6 +1575,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-03-31 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-31 19:48:29 +0000"
     },
     "done": true
   },
@@ -1349,6 +1662,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-03-31 19:50:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-03-31 19:37:36 +0000"
@@ -1412,6 +1731,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-03-31 19:22:38 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/building_blocks/raw_mythril_block": {
+    "criteria": {
+      "has_item": "2025-03-31 19:47:35 +0000"
     },
     "done": true
   },
@@ -1541,9 +1866,21 @@
     },
     "done": true
   },
+  "simpleores:onyx_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-31 19:52:07 +0000"
     },
     "done": true
   },
@@ -1568,6 +1905,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/building_blocks/onyx_block": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
     },
     "done": true
   },
@@ -1715,6 +2058,18 @@
     },
     "done": true
   },
+  "simpleores:mythril_door": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_axe": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
     "criteria": {
       "has_mangrove_planks": "2025-03-31 19:28:38 +0000"
@@ -1760,6 +2115,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-31 19:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-31 19:52:10 +0000"
     },
     "done": true
   },
@@ -1853,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-31 19:47:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-03-31 19:30:17 +0000"
@@ -1925,6 +2292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-31 19:52:22 +0000"
+    },
+    "done": true
+  },
   "simpleores:tin_boots": {
     "criteria": {
       "has_item": "2025-03-31 19:32:58 +0000"
@@ -1934,6 +2307,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
     "criteria": {
       "has_mangrove_planks": "2025-03-31 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
     },
     "done": true
   },
@@ -1958,6 +2337,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_leggings": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -1991,6 +2376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-31 19:47:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-03-31 19:30:59 +0000"
@@ -2003,6 +2394,12 @@
     },
     "done": true
   },
+  "simpleores:mythril_bars": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_wheat": "2025-03-31 19:16:27 +0000"
@@ -2012,6 +2409,12 @@
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
     },
     "done": true
   },
@@ -2087,6 +2490,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_leggings": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_door": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
@@ -2123,6 +2532,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/misc/mythril_ingot_from_blasting": {
+    "criteria": {
+      "mythril_ingot_from_blasting": "2025-03-31 19:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -2138,6 +2553,18 @@
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_boots": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_sword": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
     },
     "done": true
   },
@@ -2219,9 +2646,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_wheat": "2025-03-31 19:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
     },
     "done": true
   },
@@ -2267,6 +2706,12 @@
     },
     "done": true
   },
+  "simpleores:mythril_axe": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
   "simpleores:tin_bricks": {
     "criteria": {
       "has_item": "2025-03-31 19:32:58 +0000"
@@ -2276,6 +2721,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_wheat": "2025-03-31 19:16:27 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_shears": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
     },
     "done": true
   },
@@ -2363,6 +2814,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-03-31 19:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
@@ -2414,6 +2871,18 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/building_blocks/mythril_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-31 19:47:35 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_helmet": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -2471,6 +2940,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/misc/mythril_ingot_from_smelting": {
+    "criteria": {
+      "mythril_ingot_from_smelting": "2025-03-31 19:47:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-03-31 19:34:08 +0000"
@@ -2480,6 +2955,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-31 19:53:48 +0000"
     },
     "done": true
   },
@@ -2549,6 +3030,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-03-31 19:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-31 19:35:54 +0000"
@@ -2567,6 +3054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-31 19:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-03-31 19:09:32 +0000"
@@ -2582,6 +3075,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-03-31 19:28:29 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_shovel": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -2609,6 +3108,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/misc/onyx_gem": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mangrove_rail_bridge": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
@@ -2618,6 +3123,18 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-31 19:29:21 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_bow": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
     },
     "done": true
   },
@@ -2711,6 +3228,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/misc/mythril_rod": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
@@ -2753,6 +3276,12 @@
     },
     "done": true
   },
+  "simpleores:onyx_bricks": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-03-31 19:26:27 +0000"
@@ -2768,6 +3297,12 @@
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_planks": "2025-03-31 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "simpleores:mythril_brick_slab": {
+    "criteria": {
+      "has_item": "2025-03-31 19:53:24 +0000"
     },
     "done": true
   },
@@ -2798,6 +3333,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-31 19:47:13 +0000"
     },
     "done": true
   },
@@ -2885,13 +3426,20 @@
       "minecraft:badlands": "2025-03-31 19:14:02 +0000",
       "minecraft:mangrove_swamp": "2025-03-31 19:24:42 +0000",
       "minecraft:river": "2025-03-31 19:12:50 +0000",
-      "minecraft:desert": "2025-03-31 19:08:37 +0000"
+      "minecraft:desert": "2025-03-31 19:08:37 +0000",
+      "minecraft:windswept_savanna": "2025-03-31 19:51:35 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-03-31 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "simpleores:main/mythril_ore": {
+    "criteria": {
+      "got_mythril_ore": "2025-03-31 19:47:35 +0000"
     },
     "done": true
   },
@@ -2910,6 +3458,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_wheat": "2025-03-31 19:16:27 +0000"
+    },
+    "done": true
+  },
+  "simpleores:onyx_bow": {
+    "criteria": {
+      "has_item": "2025-03-31 19:52:17 +0000"
     },
     "done": true
   },
@@ -2934,6 +3488,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
     },
     "done": true
   },
@@ -2970,6 +3530,24 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_wheat": "2025-03-31 19:16:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-03-31 19:47:09 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/misc/raw_mythril": {
+    "criteria": {
+      "has_item": "2025-03-31 19:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-31 19:52:13 +0000"
     },
     "done": true
   },
@@ -3012,6 +3590,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-31 19:47:13 +0000"
     },
     "done": true
   },
@@ -3090,6 +3674,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-31 19:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-31 19:53:15 +0000"
     },
     "done": true
   },

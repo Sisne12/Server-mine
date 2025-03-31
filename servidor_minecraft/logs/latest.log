@@ -325,3 +325,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [31Mar2025 19:48:27.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Ooh, Pretty!]
 [31Mar2025 19:48:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [A Strange Grave Dust]
 [31Mar2025 19:48:44.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has made the advancement [Not Today, Thank You]
+[31Mar2025 19:49:37.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[31Mar2025 19:49:54.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[31Mar2025 19:50:46.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[31Mar2025 19:51:07.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[31Mar2025 19:51:26.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[31Mar2025 19:51:46.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4524ms or 90 ticks behind
+[31Mar2025 19:52:05.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4376ms or 87 ticks behind
+[31Mar2025 19:52:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Ice Bucket Challenge]
+[31Mar2025 19:52:17.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Ninja Ore]
+[31Mar2025 19:52:23.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[31Mar2025 19:52:40.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[31Mar2025 19:53:35.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[31Mar2025 19:54:04.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[31Mar2025 19:54:47.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [Powder Snow Walk]
+[31Mar2025 19:55:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Knowledge of Death]
+[31Mar2025 19:55:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [Easter Egg Searcher]
+[31Mar2025 19:56:05.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[31Mar2025 19:56:13.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Suit Up]
+[31Mar2025 19:56:23.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
+[31Mar2025 19:56:41.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[31Mar2025 19:57:00.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro has made the advancement [An Ancient Tomb]
+[31Mar2025 19:57:01.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5364ms or 107 ticks behind
+[31Mar2025 19:57:24.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7535ms or 150 ticks behind
+[31Mar2025 19:57:42.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3440ms or 68 ticks behind
+[31Mar2025 19:57:59.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[31Mar2025 19:58:17.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
+[31Mar2025 19:58:39.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6682ms or 133 ticks behind
+[31Mar2025 19:58:57.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
+[31Mar2025 19:59:08.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claaro moved too quickly! 10.250321325877167,0.0,0.14693490930068265
+[31Mar2025 19:59:18.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6031ms or 120 ticks behind
+[31Mar2025 19:59:36.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
