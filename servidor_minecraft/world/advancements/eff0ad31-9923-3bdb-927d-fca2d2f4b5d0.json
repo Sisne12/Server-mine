@@ -4766,6 +4766,12 @@
     },
     "done": true
   },
+  "gnumus:sack_collector": {
+    "criteria": {
+      "sack_collector": "2025-04-01 13:02:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-04-01 12:48:56 +0000"
