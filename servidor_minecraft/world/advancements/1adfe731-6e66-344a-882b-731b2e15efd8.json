@@ -4782,6 +4782,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-01 12:57:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-01 12:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-01 12:45:30 +0000"
@@ -4809,6 +4821,12 @@
   "alexscaves:alexscaves/deepsight": {
     "criteria": {
       "all_effects": "2025-04-01 12:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-01 12:57:04 +0000"
     },
     "done": true
   },
@@ -4848,6 +4866,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-01 12:48:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_aquatic_life": {
     "criteria": {
       "has_magic_scroll": "2025-04-01 12:46:08 +0000"
@@ -4869,6 +4893,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-01 12:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-01 12:57:04 +0000"
     },
     "done": true
   },

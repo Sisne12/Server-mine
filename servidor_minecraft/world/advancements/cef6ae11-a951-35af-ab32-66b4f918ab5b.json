@@ -197,6 +197,7 @@
       "minecraft:hoglin": "2025-03-31 22:13:36 +0000",
       "minecraft:spider": "2025-03-31 19:24:35 +0000",
       "minecraft:creeper": "2025-03-31 20:17:19 +0000",
+      "minecraft:phantom": "2025-04-01 12:53:31 +0000",
       "minecraft:wither_skeleton": "2025-03-31 22:03:25 +0000",
       "minecraft:husk": "2025-03-31 19:24:31 +0000",
       "minecraft:cave_spider": "2025-03-31 20:19:01 +0000",
@@ -5043,6 +5044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-01 12:57:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
     "criteria": {
       "has_birch_planks": "2025-04-01 12:45:00 +0000"
@@ -5091,9 +5098,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-01 12:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-01 12:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-01 12:58:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-04-01 12:43:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-01 12:57:20 +0000"
     },
     "done": true
   },
@@ -5127,6 +5158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-01 12:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-04-01 12:43:05 +0000"
@@ -5154,6 +5191,18 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-04-01 12:44:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-01 12:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-01 12:57:09 +0000"
     },
     "done": true
   },
@@ -5226,6 +5275,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-04-01 12:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-01 12:57:20 +0000"
     },
     "done": true
   },
