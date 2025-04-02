@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-02 11:03:08 +0000"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-04-02 10:57:10 +0000"
@@ -116,6 +128,18 @@
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/dark_electricity_generator": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -149,6 +173,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-02 11:12:12 +0000"
@@ -161,9 +191,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_string": "2025-04-02 11:15:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_toaster": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -179,9 +221,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
     "criteria": {
       "has_acacia_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -305,6 +359,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-02 10:50:59 +0000"
@@ -314,9 +380,28 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-02 11:15:24 +0000",
+      "minecraft:silverfish": "2025-04-02 11:23:43 +0000",
       "minecraft:zombie": "2025-04-02 11:12:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 11:25:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_bath": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
@@ -324,9 +409,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-04-02 10:46:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_microwave": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -342,6 +445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-02 11:03:08 +0000"
@@ -351,6 +460,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-02 11:12:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -408,6 +523,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_stove": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-02 11:20:15 +0000"
@@ -423,6 +544,18 @@
   "mcwbridges:recipes/acacia_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -447,6 +580,18 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-02 10:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -498,9 +643,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -519,6 +676,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-02 11:20:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -564,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-02 11:25:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
@@ -603,6 +778,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-02 11:03:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -648,6 +829,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_acacia_planks": "2025-04-02 10:53:35 +0000"
@@ -672,6 +865,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
     "criteria": {
       "has_acacia_planks": "2025-04-02 10:53:35 +0000"
@@ -687,6 +886,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-02 11:20:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -714,6 +919,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-02 10:50:59 +0000"
@@ -729,6 +940,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -828,6 +1045,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-02 11:03:08 +0000"
@@ -837,6 +1060,18 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-04-02 10:52:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -867,6 +1102,18 @@
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-04-02 11:03:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -909,6 +1156,24 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-02 11:03:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/light_electricity_generator": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_basin": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -978,6 +1243,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_fridge": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2025-04-02 11:12:32 +0000"
@@ -987,6 +1258,18 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -1017,6 +1300,18 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-02 11:12:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -1068,6 +1363,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/computer": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-02 11:01:02 +0000"
@@ -1116,6 +1423,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
@@ -1134,9 +1453,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-04-02 11:20:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -1194,6 +1531,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_string": "2025-04-02 11:15:25 +0000"
@@ -1227,6 +1570,12 @@
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_string": "2025-04-02 11:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -1296,6 +1645,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/doorbell": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-02 10:50:56 +0000"
@@ -1344,6 +1705,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
@@ -1365,6 +1732,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-02 10:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-02 11:23:22 +0000"
     },
     "done": true
   },
@@ -1416,6 +1789,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/television": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
@@ -1434,6 +1813,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
@@ -1443,6 +1828,18 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2025-04-02 11:15:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -1476,6 +1873,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-02 11:20:28 +0000"
@@ -1500,6 +1903,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-02 11:20:15 +0000"
@@ -1509,6 +1918,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -1530,6 +1945,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-02 11:23:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
@@ -1545,6 +1966,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-02 11:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },
@@ -1572,9 +1999,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -1590,6 +2029,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-04-02 11:03:08 +0000"
@@ -1599,6 +2044,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-04-02 11:12:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -1707,6 +2158,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
@@ -1728,6 +2185,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -1780,6 +2243,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-04-02 10:53:35 +0000"
@@ -1807,6 +2276,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-02 11:15:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 11:25:41 +0000"
     },
     "done": true
   },
@@ -1852,6 +2327,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-04-02 11:20:28 +0000"
@@ -1861,6 +2342,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-02 10:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-02 11:21:40 +0000"
     },
     "done": true
   },

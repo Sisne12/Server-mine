@@ -6424,5 +6424,11 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-04-02 11:25:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
