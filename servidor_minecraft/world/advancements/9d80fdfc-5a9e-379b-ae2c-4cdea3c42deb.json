@@ -4775,6 +4775,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-04-02 17:16:15 +0000"
+    },
+    "done": true
+  },
   "simpleores:tin_chestplate": {
     "criteria": {
       "has_item": "2025-04-02 16:32:04 +0000"

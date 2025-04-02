@@ -844,3 +844,55 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 17:16:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was slain by Nether Gauntlet
 [02Apr2025 17:16:39.283] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
 [02Apr2025 17:16:50.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6650ms or 133 ticks behind
+[02Apr2025 17:17:10.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErCheito lost connection: Disconnected
+[02Apr2025 17:17:10.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito left the game
+[02Apr2025 17:17:11.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5561ms or 111 ticks behind
+[02Apr2025 17:17:35.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8740ms or 174 ticks behind
+[02Apr2025 17:17:56.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[02Apr2025 17:18:45.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was blown up by Nether Gauntlet
+[02Apr2025 17:18:45.241] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
+[02Apr2025 17:18:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was burnt to a crisp whilst fighting Nether Gauntlet
+[02Apr2025 17:18:46.697] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[02Apr2025 17:18:50.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[02Apr2025 17:19:22.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was blown up by Nether Gauntlet
+[02Apr2025 17:19:22.155] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
+[02Apr2025 17:19:24.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[02Apr2025 17:19:45.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra was slain by Nether Gauntlet
+[02Apr2025 17:19:45.803] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[02Apr2025 17:20:31.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was slain by Nether Gauntlet
+[02Apr2025 17:20:31.954] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
+[02Apr2025 17:20:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Through the Gauntlet]
+[02Apr2025 17:21:08.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Hidden in the Depths]
+[02Apr2025 17:21:09.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Hidden in the Depths]
+[02Apr2025 17:22:32.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3075ms or 61 ticks behind
+[02Apr2025 17:22:51.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[02Apr2025 17:24:29.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3909ms or 78 ticks behind
+[02Apr2025 17:25:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has completed the challenge [The Power of the Sun]
+[02Apr2025 17:25:36.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 was cursed by Maledictus
+[02Apr2025 17:25:36.308] [Server thread/INFO] [tombstone/]: The player Sisinio21 has successfully been saved
+[02Apr2025 17:26:21.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [Chain Death]
+[02Apr2025 17:26:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 was cursed by Maledictus
+[02Apr2025 17:26:21.587] [Server thread/INFO] [tombstone/]: The player Sisinio21 has successfully been saved
+[02Apr2025 17:27:04.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 was slain by Maledictus
+[02Apr2025 17:27:04.703] [Server thread/INFO] [tombstone/]: The player Sisinio21 has successfully been saved
+[02Apr2025 17:29:10.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02Apr2025 17:29:32.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TurnOff moved wrongly!
+[02Apr2025 17:31:01.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4259ms or 85 ticks behind
+[02Apr2025 17:32:29.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02Apr2025 17:32:50.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5455ms or 109 ticks behind
+[02Apr2025 17:33:07.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[02Apr2025 17:33:24.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2447ms or 48 ticks behind
+[02Apr2025 17:33:53.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02Apr2025 17:34:10.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02Apr2025 17:34:43.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[02Apr2025 17:34:43.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved too quickly! 2.908619957354176,0.0,-9.982879308255065
+[02Apr2025 17:35:10.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[02Apr2025 17:35:42.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[02Apr2025 17:36:21.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[02Apr2025 17:36:35.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [People Are Strange]
+[02Apr2025 17:36:45.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[02Apr2025 17:36:49.071] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[02Apr2025 17:37:26.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[02Apr2025 17:37:46.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4462ms or 89 ticks behind
+[02Apr2025 17:37:58.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff was doomed to fall by Skeleton
+[02Apr2025 17:37:58.164] [Server thread/INFO] [tombstone/]: The player TurnOff has successfully been saved
