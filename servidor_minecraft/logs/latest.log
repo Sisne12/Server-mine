@@ -620,3 +620,55 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 16:31:39.595] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
 [02Apr2025 16:31:39.596] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
 [02Apr2025 16:31:40.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Ambush]
+[02Apr2025 16:32:02.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21804ms or 436 ticks behind
+[02Apr2025 16:32:08.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Magic Writing]
+[02Apr2025 16:32:36.926] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Apr2025 16:32:55.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38241ms or 764 ticks behind
+[02Apr2025 16:33:27.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16919ms or 338 ticks behind
+[02Apr2025 16:33:59.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17488ms or 349 ticks behind
+[02Apr2025 16:34:31.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16578ms or 331 ticks behind
+[02Apr2025 16:34:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Into Fire]
+[02Apr2025 16:34:43.944] [Worker-Main-134/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Apr2025 16:34:50.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Into Fire]
+[02Apr2025 16:34:59.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12958ms or 259 ticks behind
+[02Apr2025 16:35:02.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Firebug]
+[02Apr2025 16:35:19.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5663ms or 113 ticks behind
+[02Apr2025 16:35:51.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16741ms or 334 ticks behind
+[02Apr2025 16:36:25.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18861ms or 377 ticks behind
+[02Apr2025 16:36:26.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Ol' Betsy]
+[02Apr2025 16:36:45.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[02Apr2025 16:36:48.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Who's the Pillager Now?]
+[02Apr2025 16:36:53.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra tried to swim in lava
+[02Apr2025 16:36:54.205] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[02Apr2025 16:37:00.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito was slain by Vindicator
+[02Apr2025 16:37:00.598] [Server thread/INFO] [tombstone/]: The player ErCheito has successfully been saved
+[02Apr2025 16:37:08.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8294ms or 165 ticks behind
+[02Apr2025 16:37:28.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4822ms or 96 ticks behind
+[02Apr2025 16:37:29.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
+[02Apr2025 16:37:47.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4389ms or 87 ticks behind
+[02Apr2025 16:38:06.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
+[02Apr2025 16:38:12.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9600ms or 192 ticks behind
+[02Apr2025 16:38:34.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra lost connection: Disconnected
+[02Apr2025 16:38:34.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra left the game
+[02Apr2025 16:38:41.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TurnOff lost connection: Disconnected
+[02Apr2025 16:38:41.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff left the game
+[02Apr2025 16:38:42.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hugolacabra[/127.99.181.103:45549] logged in with entity id 79834 at (1592.982092926531, 62.0, -442.036634097095)
+[02Apr2025 16:38:42.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra joined the game
+[02Apr2025 16:38:43.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16448ms or 328 ticks behind
+[02Apr2025 16:38:48.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TurnOff[/127.121.129.151:33069] logged in with entity id 79992 at (1593.0637549101887, 62.0, -441.1354572859623)
+[02Apr2025 16:38:48.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff joined the game
+[02Apr2025 16:39:06.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8038ms or 160 ticks behind
+[02Apr2025 16:39:30.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8535ms or 170 ticks behind
+[02Apr2025 16:39:33.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra moved wrongly!
+[02Apr2025 16:39:48.205] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:39:57.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11984ms or 239 ticks behind
+[02Apr2025 16:40:29.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17308ms or 346 ticks behind
+[02Apr2025 16:40:35.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Knowledge raises the soul]
+[02Apr2025 16:40:58.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13987ms or 279 ticks behind
+[02Apr2025 16:41:33.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19503ms or 390 ticks behind
+[02Apr2025 16:41:58.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito drowned
+[02Apr2025 16:41:59.132] [Server thread/INFO] [tombstone/]: The player ErCheito has successfully been saved
+[02Apr2025 16:42:06.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17983ms or 359 ticks behind
+[02Apr2025 16:42:26.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5939ms or 118 ticks behind
+[02Apr2025 16:42:51.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErCheito moved too quickly! 2.5659913164097077,-0.15430057281264453,9.868642780937108
+[02Apr2025 16:42:52.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10857ms or 217 ticks behind

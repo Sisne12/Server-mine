@@ -2511,6 +2511,7 @@
       "minecraft:skeleton": "2025-03-31 20:14:39 +0000",
       "minecraft:hoglin": "2025-03-31 22:12:19 +0000",
       "minecraft:vindicator": "2025-04-01 18:26:51 +0000",
+      "minecraft:magma_cube": "2025-04-02 16:29:21 +0000",
       "minecraft:spider": "2025-03-31 20:17:19 +0000",
       "minecraft:piglin_brute": "2025-04-01 14:54:52 +0000",
       "minecraft:creeper": "2025-03-31 20:16:50 +0000",
@@ -6502,7 +6503,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-02 16:11:39 +0000",
-      "minecraft:nether_wastes": "2025-04-02 16:07:48 +0000"
+      "minecraft:nether_wastes": "2025-04-02 16:07:48 +0000",
+      "minecraft:basalt_deltas": "2025-04-02 16:26:57 +0000"
     },
     "done": false
   },
@@ -6515,6 +6517,36 @@
   "simpleores:onyx_pickaxe": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-02 16:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
     },
     "done": true
   },
@@ -6536,15 +6568,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_shovel": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-02 16:29:37 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_hoe": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
     },
     "done": true
   },
@@ -6560,6 +6616,30 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-04-02 16:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-04-02 16:14:55 +0000"
@@ -6569,6 +6649,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-02 16:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-02 16:29:37 +0000"
     },
     "done": true
   },
@@ -6596,6 +6682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-02 16:07:39 +0000"
@@ -6611,6 +6703,12 @@
   "simpleores:onyx_leggings": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "simpleores:main/onyx_bow": {
+    "criteria": {
+      "got_onyx_bow": "2025-04-02 16:35:02 +0000"
     },
     "done": true
   },
@@ -6632,9 +6730,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-04-02 16:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:29:54 +0000"
     },
     "done": true
   },
@@ -6647,6 +6769,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-02 16:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
     },
     "done": true
   },
@@ -6668,15 +6796,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_bricks": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-02 16:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-02 16:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_bow": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-02 16:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-02 16:29:54 +0000"
     },
     "done": true
   },
