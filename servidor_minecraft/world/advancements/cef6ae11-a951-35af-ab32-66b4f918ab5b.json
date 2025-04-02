@@ -7501,6 +7501,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_coarse_dirt": {
+    "criteria": {
+      "has_reinforced_gravel": "2025-04-02 15:45:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-02 15:36:13 +0000"

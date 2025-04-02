@@ -57,6 +57,7 @@
       "minecraft:beach": "2025-04-02 15:33:34 +0000",
       "minecraft:sparse_jungle": "2025-04-02 11:12:17 +0000",
       "minecraft:river": "2025-04-02 10:51:13 +0000",
+      "minecraft:snowy_plains": "2025-04-02 15:53:01 +0000",
       "minecraft:dripstone_caves": "2025-04-02 12:08:22 +0000",
       "minecraft:snowy_taiga": "2025-04-02 15:41:24 +0000",
       "minecraft:forest": "2025-04-02 11:00:19 +0000",
@@ -69,6 +70,7 @@
       "minecraft:windswept_savanna": "2025-04-02 10:52:11 +0000",
       "minecraft:warm_ocean": "2025-04-02 10:56:15 +0000",
       "minecraft:meadow": "2025-04-02 13:15:04 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-02 15:54:04 +0000",
       "minecraft:savanna": "2025-04-02 10:59:13 +0000",
       "minecraft:plains": "2025-04-02 11:04:23 +0000"
     },
@@ -4325,6 +4327,12 @@
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-04-02 15:38:32 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:10 +0000"
     },
     "done": true
   },
