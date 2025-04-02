@@ -2507,6 +2507,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-01 18:35:14 +0000",
+      "minecraft:blaze": "2025-04-02 16:15:13 +0000",
       "minecraft:skeleton": "2025-03-31 20:14:39 +0000",
       "minecraft:hoglin": "2025-03-31 22:12:19 +0000",
       "minecraft:vindicator": "2025-04-01 18:26:51 +0000",
@@ -6529,6 +6530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-02 16:15:38 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_shovel": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
@@ -6550,6 +6557,12 @@
   "simpleores:onyx_brick_slab": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-02 16:14:55 +0000"
     },
     "done": true
   },
@@ -6589,6 +6602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-02 16:15:56 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_leggings": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
@@ -6601,9 +6620,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-02 16:15:56 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_shears": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-02 16:20:36 +0000"
     },
     "done": true
   },
@@ -6628,6 +6659,12 @@
   "simpleores:onyx_brick_stairs": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-02 16:15:38 +0000"
     },
     "done": true
   },
