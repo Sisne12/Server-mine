@@ -187,3 +187,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 12:26:54.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hugolacabra[/127.99.181.103:38419] logged in with entity id 714 at (1616.340266267103, 76.0, -455.65420780762554)
 [02Apr2025 12:26:54.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra joined the game
 [02Apr2025 12:26:58.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4481ms or 89 ticks behind
+[02Apr2025 13:00:56.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErCheito[/127.190.186.81:53125] logged in with entity id 5957 at (1887.3780880991646, 53.41999998688698, -1409.699999988079)
+[02Apr2025 13:00:56.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito joined the game
+[02Apr2025 13:00:59.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[02Apr2025 13:01:56.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[02Apr2025 13:02:14.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
