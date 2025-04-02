@@ -2509,6 +2509,7 @@
       "minecraft:pillager": "2025-04-01 18:35:14 +0000",
       "minecraft:blaze": "2025-04-02 16:15:13 +0000",
       "minecraft:skeleton": "2025-03-31 20:14:39 +0000",
+      "minecraft:ghast": "2025-04-02 16:58:10 +0000",
       "minecraft:hoglin": "2025-03-31 22:12:19 +0000",
       "minecraft:vindicator": "2025-04-01 18:26:51 +0000",
       "minecraft:magma_cube": "2025-04-02 16:29:21 +0000",
@@ -6630,6 +6631,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-02 16:11:39 +0000",
       "minecraft:nether_wastes": "2025-04-02 16:07:48 +0000",
+      "minecraft:soul_sand_valley": "2025-04-02 16:57:27 +0000",
       "minecraft:basalt_deltas": "2025-04-02 16:26:57 +0000"
     },
     "done": false
@@ -6844,9 +6846,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 17:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 17:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 17:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 17:00:40 +0000"
+    },
+    "done": true
+  },
   "simpleores:main/copper_bucket": {
     "criteria": {
       "got_copper_bucket": "2025-04-02 16:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 17:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 17:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 17:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-04-02 16:58:10 +0000"
     },
     "done": true
   },
