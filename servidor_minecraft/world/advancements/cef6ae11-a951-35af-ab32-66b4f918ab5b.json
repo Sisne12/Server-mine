@@ -49,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-02 17:52:26 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-01 17:54:55 +0000",
       "minecraft:taiga": "2025-04-01 17:53:34 +0000",
       "minecraft:deep_ocean": "2025-04-01 15:13:13 +0000",
@@ -8254,6 +8255,18 @@
   "dungeons_arise:find_illager_campsite": {
     "criteria": {
       "location0": "2025-04-02 17:36:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-04-02 18:00:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-02 17:52:19 +0000"
     },
     "done": true
   },
