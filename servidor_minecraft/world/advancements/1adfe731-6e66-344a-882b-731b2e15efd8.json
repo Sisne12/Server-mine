@@ -6436,5 +6436,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-02 14:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-02 14:31:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
