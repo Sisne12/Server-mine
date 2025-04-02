@@ -192,3 +192,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 13:00:59.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
 [02Apr2025 13:01:56.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [02Apr2025 13:02:14.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02Apr2025 13:08:28.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Ashes 'n Bones]
+[02Apr2025 13:09:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Bonfire Lit]
+[02Apr2025 13:10:30.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Where Is The Stone Pen?]
+[02Apr2025 13:10:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Ice Bucket Challenge]
+[02Apr2025 13:13:59.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Take Aim]
+[02Apr2025 13:18:11.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[02Apr2025 13:18:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Apr2025 13:18:18.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Apr2025 13:18:18.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugolacabra lost connection: Server closed
+[02Apr2025 13:18:18.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra left the game
+[02Apr2025 13:18:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Apr2025 13:18:19.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Apr2025 13:18:19.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Apr2025 13:18:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Apr2025 13:18:19.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Apr2025 13:18:19.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Apr2025 13:18:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Apr2025 13:18:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Apr2025 13:18:20.053] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Apr2025 13:18:20.058] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[02Apr2025 13:18:20.063] [Server thread/INFO] [Framework/]: Finished unloading server configs
