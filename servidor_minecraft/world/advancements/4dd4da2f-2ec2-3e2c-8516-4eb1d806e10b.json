@@ -7342,11 +7342,23 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-02 16:43:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-04-02 16:33:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-02 16:43:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

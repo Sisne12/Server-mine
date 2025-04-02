@@ -57,6 +57,7 @@
       "minecraft:beach": "2025-04-02 15:33:34 +0000",
       "minecraft:sparse_jungle": "2025-04-02 11:12:17 +0000",
       "minecraft:river": "2025-04-02 10:51:13 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-02 16:50:35 +0000",
       "minecraft:snowy_plains": "2025-04-02 15:53:01 +0000",
       "minecraft:dripstone_caves": "2025-04-02 12:08:22 +0000",
       "minecraft:snowy_taiga": "2025-04-02 15:41:24 +0000",
@@ -69,6 +70,7 @@
       "minecraft:snowy_beach": "2025-04-02 15:42:13 +0000",
       "minecraft:windswept_savanna": "2025-04-02 10:52:11 +0000",
       "minecraft:warm_ocean": "2025-04-02 10:56:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-02 16:41:02 +0000",
       "minecraft:meadow": "2025-04-02 13:15:04 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-02 15:54:04 +0000",
       "minecraft:savanna": "2025-04-02 10:59:13 +0000",
@@ -3677,6 +3679,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-02 15:34:21 +0000"
@@ -3713,6 +3721,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 15:38:35 +0000"
@@ -3743,6 +3763,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "simpleores:adamantium_sword": {
     "criteria": {
       "has_item": "2025-04-02 16:32:16 +0000"
@@ -3770,6 +3796,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-04-02 14:50:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -3809,6 +3841,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 15:38:35 +0000"
@@ -3839,6 +3877,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-04-02 15:34:21 +0000"
@@ -3848,6 +3892,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-02 14:49:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
     },
     "done": true
   },
@@ -3866,6 +3916,18 @@
   "simpleores:adamantium_door": {
     "criteria": {
       "has_item": "2025-04-02 16:32:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -3899,6 +3961,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-02 14:52:53 +0000"
@@ -3908,6 +3976,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-02 14:52:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -3935,9 +4009,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-02 14:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -3977,6 +4069,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-02 15:26:11 +0000"
@@ -3986,6 +4084,18 @@
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-02 14:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-02 16:36:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -4025,15 +4135,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "simpleores:tin_leggings": {
     "criteria": {
       "has_item": "2025-04-02 16:32:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-04-02 15:44:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
     },
     "done": true
   },
@@ -4061,6 +4189,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-02 15:35:31 +0000"
@@ -4079,9 +4213,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-02 15:26:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
     },
     "done": true
   },
@@ -4169,6 +4315,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:43:32 +0000"
+    },
+    "done": true
+  },
   "simpleores:adamantium_brick_stairs": {
     "criteria": {
       "has_item": "2025-04-02 16:32:16 +0000"
@@ -4178,6 +4330,12 @@
   "simpleores:recipes/misc/tin_ingot_from_nuggets": {
     "criteria": {
       "has_item": "2025-04-02 16:32:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 16:48:41 +0000"
     },
     "done": true
   },
@@ -4259,6 +4417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-02 14:52:53 +0000"
@@ -4319,6 +4483,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-02 16:31:52 +0000"
@@ -4337,6 +4513,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-02 14:49:53 +0000"
@@ -4346,6 +4528,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-02 15:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -4397,6 +4585,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-04-02 16:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-02 15:30:50 +0000"
@@ -4412,6 +4606,12 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-02 14:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
     },
     "done": true
   },
@@ -4445,9 +4645,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 16:40:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-04-02 14:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -4466,6 +4678,12 @@
   "refurbished_furniture:recipes/frying/glow_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-04-02 15:34:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -4565,6 +4783,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "simpleores:tin_hoe": {
     "criteria": {
       "has_item": "2025-04-02 16:32:04 +0000"
@@ -4574,6 +4804,36 @@
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-04-02 16:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-02 16:43:32 +0000"
     },
     "done": true
   },
@@ -4631,6 +4891,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-02 14:49:20 +0000"
@@ -4667,6 +4939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 16:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-04-02 15:30:50 +0000"
@@ -4685,6 +4963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-02 15:54:44 +0000"
@@ -4697,9 +4981,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 15:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
     },
     "done": true
   },
@@ -4712,6 +5008,18 @@
   "simpleores:tin_door": {
     "criteria": {
       "has_item": "2025-04-02 16:32:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
     },
     "done": true
   },
@@ -4733,9 +5041,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:44:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-04-02 14:52:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-02 16:44:03 +0000"
     },
     "done": true
   },
@@ -4805,9 +5125,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-02 16:48:33 +0000"
+    },
+    "done": true
+  },
   "simpleores:adamantium_axe": {
     "criteria": {
       "has_item": "2025-04-02 16:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 16:36:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-02 16:36:58 +0000"
     },
     "done": true
   },
