@@ -3868,3 +3868,245 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 15:58:43.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [02Apr2025 15:59:03.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
 [02Apr2025 15:59:29.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11190ms or 223 ticks behind
+[02Apr2025 16:00:02.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17377ms or 347 ticks behind
+[02Apr2025 16:00:47.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30227ms or 604 ticks behind
+[02Apr2025 16:01:14.615] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[02Apr2025 16:01:16.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14149ms or 282 ticks behind
+[02Apr2025 16:01:19.726] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[02Apr2025 16:01:45.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14342ms or 286 ticks behind
+[02Apr2025 16:01:48.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito was slain by Frostmaw
+[02Apr2025 16:01:48.510] [Server thread/DEBUG] [tombstone/]: A new grave of the player ErCheito was created at position [x:2119, y:64, z:-4251, dim:minecraft:overworld]
+[02Apr2025 16:01:48.667] [Server thread/INFO] [tombstone/]: The player ErCheito has successfully been saved
+[02Apr2025 16:02:17.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17122ms or 342 ticks behind
+[02Apr2025 16:02:32.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1609, y=66, z=-442} BlockPos{x=1609, y=66, z=-443}
+[02Apr2025 16:02:42.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 16:02:42.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 16:02:43.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErCheito moved too quickly! 1.3546133558943438,-0.41999998688697815,9.954919943957975
+[02Apr2025 16:02:44.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11947ms or 238 ticks behind
+[02Apr2025 16:03:15.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15358ms or 307 ticks behind
+[02Apr2025 16:04:11.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41231ms or 824 ticks behind
+[02Apr2025 16:04:36.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10439ms or 208 ticks behind
+[02Apr2025 16:04:57.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito was slain by Frostmaw
+[02Apr2025 16:04:57.114] [Server thread/DEBUG] [tombstone/]: A new grave of the player ErCheito was created at position [x:2119, y:63, z:-4260, dim:minecraft:overworld]
+[02Apr2025 16:04:57.183] [Server thread/INFO] [tombstone/]: The player ErCheito has successfully been saved
+[02Apr2025 16:05:03.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11609ms or 232 ticks behind
+[02Apr2025 16:05:15.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has reached the goal [Here They Come]
+[02Apr2025 16:05:30.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12578ms or 251 ticks behind
+[02Apr2025 16:05:59.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14020ms or 280 ticks behind
+[02Apr2025 16:06:26.565] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[02Apr2025 16:06:26.567] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[02Apr2025 16:06:26.567] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[02Apr2025 16:06:28.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13916ms or 278 ticks behind
+[02Apr2025 16:06:32.196] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[02Apr2025 16:06:32.198] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[02Apr2025 16:06:57.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13513ms or 270 ticks behind
+[02Apr2025 16:07:25.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13597ms or 271 ticks behind
+[02Apr2025 16:07:31.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [We Need to Go Deeper]
+[02Apr2025 16:07:37.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -9.667692943360407,0.0,-3.6314185603791884
+[02Apr2025 16:07:37.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -10.027862004684835,0.0,-3.79767830413266
+[02Apr2025 16:07:37.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -10.387611132934353,0.0,-3.9655563788978725
+[02Apr2025 16:07:37.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -10.746950783118791,0.0,-4.1349523554945335
+[02Apr2025 16:07:37.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.10589378083796,0.0,-4.305768978228571
+[02Apr2025 16:07:37.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.46445334923726,0.0,-4.477915269220375
+[02Apr2025 16:07:37.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.822644857392675,0.0,-4.651302506885713
+[02Apr2025 16:07:37.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -12.180483854830868,0.0,-4.825847412670555
+[02Apr2025 16:07:37.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -12.53798784534888,0.0,-5.001468214872148
+[02Apr2025 16:07:37.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -12.895172545110995,0.0,-5.178091300333563
+[02Apr2025 16:07:37.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -13.252055633964915,0.0,-5.355643611109372
+[02Apr2025 16:07:37.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -13.608653005146834,0.0,-5.5340593838750465
+[02Apr2025 16:07:37.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -13.964980724631232,0.0,-5.713276026724543
+[02Apr2025 16:07:37.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -14.321055028758224,0.0,-5.893233807616525
+[02Apr2025 16:07:37.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -14.676890519057679,0.0,-6.07387896212731
+[02Apr2025 16:07:37.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -15.032502117594845,0.0,-6.255159704812286
+[02Apr2025 16:07:37.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -15.387903243052278,0.0,-6.437029425047058
+[02Apr2025 16:07:37.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -15.743107764108572,0.0,-6.6194427813939
+[02Apr2025 16:07:37.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -16.098129950713428,0.0,-6.8023555746831335
+[02Apr2025 16:07:37.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -16.45298084650608,0.0,-6.985731411952202
+[02Apr2025 16:07:37.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -16.80767218635151,0.0,-7.169534149521496
+[02Apr2025 16:07:37.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -17.162216327217834,0.0,-7.353727869928207
+[02Apr2025 16:07:38.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -17.516622587335405,0.0,-7.538283633746232
+[02Apr2025 16:07:38.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -17.870901152426768,0.0,-7.7231720092036085
+[02Apr2025 16:07:38.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -18.225061189641906,0.0,-7.908366505843333
+[02Apr2025 16:07:38.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -18.579110949415508,0.0,-8.093843280392775
+[02Apr2025 16:07:38.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -18.933059656453793,0.0,-8.279577489479834
+[02Apr2025 16:07:38.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -19.286913806226494,0.0,-8.46555016036018
+[02Apr2025 16:07:38.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -19.640681055147184,0.0,-8.65174083127522
+[02Apr2025 16:07:38.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -19.994368286537338,0.0,-8.838131086642079
+[02Apr2025 16:07:38.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -20.347981699111415,0.0,-9.024704350574666
+[02Apr2025 16:07:38.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -20.7015268679869,0.0,-9.211445706638187
+[02Apr2025 16:07:38.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -21.055008814494954,0.0,-9.39834172817882
+[02Apr2025 16:07:38.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -21.408432054107834,0.0,-9.585380333071953
+[02Apr2025 16:07:38.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -21.761802457516637,0.0,-9.772547262978605
+[02Apr2025 16:07:38.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -22.11512350530245,0.0,-9.959833067958243
+[02Apr2025 16:07:38.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -22.4683983262629,0.0,-10.147229243063975
+[02Apr2025 16:07:38.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -22.821631543081708,0.0,-10.334724751280646
+[02Apr2025 16:07:38.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -23.174827316173946,0.0,-10.522309659294933
+[02Apr2025 16:07:38.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -23.527987579422188,0.0,-10.70997841155122
+[02Apr2025 16:07:38.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -23.881115883811617,0.0,-10.89772262362294
+[02Apr2025 16:07:38.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -24.23421362218835,0.0,-11.085538132090733
+[02Apr2025 16:07:38.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -24.58728385115444,0.0,-11.273417807313308
+[02Apr2025 16:07:38.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -24.940329321651575,0.0,-11.461355232613187
+[02Apr2025 16:07:38.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -25.293352509527267,0.0,-11.649344632981865
+[02Apr2025 16:07:38.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -25.64635383627831,0.0,-11.837384193474463
+[02Apr2025 16:07:38.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -25.999335488017778,0.0,-12.025468898077179
+[02Apr2025 16:07:38.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -26.352299432247264,0.0,-12.213594232378455
+[02Apr2025 16:07:38.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -26.705247439718164,0.0,-12.401756133407162
+[02Apr2025 16:07:38.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -27.05818110410678,0.0,-12.589950944489829
+[02Apr2025 16:07:38.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -27.41110185972161,0.0,-12.778175374619877
+[02Apr2025 16:07:38.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -27.764010997440437,0.0,-12.966426461892297
+[02Apr2025 16:07:38.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -28.116907872287243,0.0,-13.154704923155805
+[02Apr2025 16:07:38.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -28.469793710549652,0.0,-13.343008021010519
+[02Apr2025 16:07:38.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -28.822669615886184,0.0,-13.531333291796727
+[02Apr2025 16:07:38.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -29.175536581589768,0.0,-13.719678518220917
+[02Apr2025 16:07:38.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -29.52839550162389,0.0,-13.908041704718471
+[02Apr2025 16:07:38.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -29.88124718055576,0.0,-14.096421055282008
+[02Apr2025 16:07:38.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -30.234092342495728,0.0,-14.284814953504338
+[02Apr2025 16:07:38.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -30.58693163914313,0.0,-14.473221944619127
+[02Apr2025 16:07:38.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -30.93976565702735,0.0,-14.661640719336901
+[02Apr2025 16:07:38.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -31.292594924024797,0.0,-14.850070099297227
+[02Apr2025 16:07:38.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -31.645419915224352,0.0,-15.038509023975166
+[02Apr2025 16:07:38.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -31.99824105820585,0.0,-15.22695653889923
+[02Apr2025 16:07:38.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -32.35105873779128,0.0,-15.415411785044398
+[02Apr2025 16:07:38.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -32.7038733003202,0.0,-15.603873989288331
+[02Apr2025 16:07:38.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -33.056685057498385,0.0,-15.792342455821199
+[02Apr2025 16:07:38.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -33.40949428986096,0.0,-15.980816558413608
+[02Apr2025 16:07:38.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -33.76230124988956,0.0,-16.169295733459876
+[02Apr2025 16:07:38.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -34.11510616481769,0.0,-16.357779473714345
+[02Apr2025 16:07:38.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -34.46790923915535,0.0,-16.546267322655694
+[02Apr2025 16:07:38.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -34.82071065696175,0.0,-16.7347588694156
+[02Apr2025 16:07:38.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -35.17351058388999,0.0,-16.92325374421216
+[02Apr2025 16:07:38.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -35.526309169027854,0.0,-17.111751614241257
+[02Apr2025 16:07:38.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -35.87910654655445,0.0,-17.300252179979907
+[02Apr2025 16:07:38.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -36.23190283723102,0.0,-17.488755171857065
+[02Apr2025 16:07:38.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -36.58469814974251,0.0,-17.677260347258652
+[02Apr2025 16:07:38.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -36.93749258190553,0.0,-17.865767487832272
+[02Apr2025 16:07:38.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -37.290286221754855,0.0,-18.054276397060676
+[02Apr2025 16:07:38.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -37.643079148521906,0.0,-18.242786898078066
+[02Apr2025 16:07:38.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -37.995871433514935,0.0,-18.43129883170559
+[02Apr2025 16:07:38.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -38.3486631409113,0.0,-18.61981205468237
+[02Apr2025 16:07:38.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -38.70145432847073,0.0,-18.808326438073436
+[02Apr2025 16:07:38.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -39.054245048176995,0.0,-18.99684186583727
+[02Apr2025 16:07:38.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -39.407035346815405,0.0,-19.18535823353659
+[02Apr2025 16:07:38.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -30.452729179944527,0.0,-15.90699436289242
+[02Apr2025 16:07:38.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -30.805518758556786,0.0,-16.09551572044529
+[02Apr2025 16:07:38.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -31.15830622344481,0.0,-16.284040807518068
+[02Apr2025 16:07:38.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -31.51109178598108,0.0,-16.472569251158802
+[02Apr2025 16:07:38.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -31.863875636400735,0.0,-16.661100715710745
+[02Apr2025 16:07:38.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -32.216657945915586,0.0,-16.849634899082503
+[02Apr2025 16:07:38.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -32.56943886861609,0.0,-17.038171529392002
+[02Apr2025 16:07:38.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -32.9222185431837,0.0,-17.226710361945607
+[02Apr2025 16:07:38.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -33.27499709443168,0.0,-17.415251176518723
+[02Apr2025 16:07:38.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -33.62777463469217,0.0,-17.603793774909718
+[02Apr2025 16:07:38.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -33.98055126506381,0.0,-17.792337978736214
+[02Apr2025 16:07:38.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -34.333327076535625,0.0,-17.980883627455114
+[02Apr2025 16:07:38.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -34.6861021509975,0.0,-18.169430576576815
+[02Apr2025 16:07:38.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -35.03887656215045,0.0,-18.357978696060854
+[02Apr2025 16:07:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [We Need to Go Deeper]
+[02Apr2025 16:07:43.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -9.285022585387196,0.0,-4.68490062391129
+[02Apr2025 16:07:43.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -9.642139489193596,0.0,-4.865087856952869
+[02Apr2025 16:07:43.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -9.999256407240296,0.0,-5.04527506257682
+[02Apr2025 16:07:43.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -10.356373338103253,0.0,-5.225462243524817
+[02Apr2025 16:07:43.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -10.713490280500764,0.0,-5.4056494022643164
+[02Apr2025 16:07:43.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.070607233279475,0.0,-5.585836541016306
+[02Apr2025 16:07:43.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.427724195401197,0.0,-5.766023661779855
+[02Apr2025 16:07:43.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.784841165931653,0.0,-5.946210766353488
+[02Apr2025 16:07:43.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -12.141958144030014,0.0,-6.126397856356107
+[02Apr2025 16:07:43.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -12.499075128939467,0.0,-6.3065849332447215
+[02Apr2025 16:07:43.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -12.8561921199788,0.0,-6.486771998330823
+[02Apr2025 16:07:43.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -13.213309116535129,0.0,-6.666959052794937
+[02Apr2025 16:07:43.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -13.57042611805673,0.0,-6.8471460976988965
+[02Apr2025 16:07:43.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -13.927543124047133,0.0,-7.027333133999036
+[02Apr2025 16:07:43.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -14.284660134059436,0.0,-7.207520162555738
+[02Apr2025 16:07:43.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -14.641777147691414,0.0,-7.387707184142982
+[02Apr2025 16:07:43.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -14.998894164581088,0.0,-7.567894199457896
+[02Apr2025 16:07:43.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -15.356011184402632,0.0,-7.748081209128031
+[02Apr2025 16:07:43.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -15.713128206862962,0.0,-7.928268213717729
+[02Apr2025 16:07:43.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -16.07024523169821,0.0,-8.108455213734487
+[02Apr2025 16:08:01.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -9.285043201435428,0.0,-4.684860930474315
+[02Apr2025 16:08:01.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -9.642160247644483,0.0,-4.865047889338712
+[02Apr2025 16:08:01.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -9.999277293853538,0.0,-5.045234848203108
+[02Apr2025 16:08:01.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -10.356394340062593,0.0,-5.225421807067505
+[02Apr2025 16:08:01.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -10.713511386271648,0.0,-5.405608765931902
+[02Apr2025 16:08:01.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.070628432480703,0.0,-5.585795724796299
+[02Apr2025 16:08:01.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.427745478689758,0.0,-5.765982683660695
+[02Apr2025 16:08:01.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -11.784862524898813,0.0,-5.946169642525092
+[02Apr2025 16:08:01.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sisinio21) moved too quickly! -12.141979571107868,0.0,-6.126356601389489
+[02Apr2025 16:08:09.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has completed the challenge [Rude Awakening]
+[02Apr2025 16:08:12.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31644ms or 632 ticks behind
+[02Apr2025 16:08:40.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Nightmare Fuel]
+[02Apr2025 16:08:41.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13892ms or 277 ticks behind
+[02Apr2025 16:08:59.105] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[02Apr2025 16:08:59.361] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[02Apr2025 16:09:13.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16960ms or 339 ticks behind
+[02Apr2025 16:09:41.020] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[02Apr2025 16:09:41.020] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[02Apr2025 16:09:41.021] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[02Apr2025 16:09:41.021] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[02Apr2025 16:09:41.021] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[02Apr2025 16:09:41.116] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[02Apr2025 16:09:41.116] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[02Apr2025 16:09:41.116] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[02Apr2025 16:09:41.117] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[02Apr2025 16:09:41.117] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[02Apr2025 16:09:41.117] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[02Apr2025 16:09:41.117] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[02Apr2025 16:09:41.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13276ms or 265 ticks behind
+[02Apr2025 16:09:48.853] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[02Apr2025 16:09:48.856] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[02Apr2025 16:09:48.856] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[02Apr2025 16:09:48.857] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[02Apr2025 16:09:48.857] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[02Apr2025 16:09:48.903] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[02Apr2025 16:09:48.904] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[02Apr2025 16:09:48.906] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[02Apr2025 16:10:10.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13605ms or 272 ticks behind
+[02Apr2025 16:10:33.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8637ms or 172 ticks behind
+[02Apr2025 16:11:04.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16127ms or 322 ticks behind
+[02Apr2025 16:11:18.781] [Worker-Main-82/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Apr2025 16:11:18.785] [Worker-Main-82/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Apr2025 16:11:43.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23520ms or 470 ticks behind
+[02Apr2025 16:12:18.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20305ms or 406 ticks behind
+[02Apr2025 16:12:52.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18656ms or 373 ticks behind
+[02Apr2025 16:13:26.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 16:13:26.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 16:13:33.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26411ms or 528 ticks behind
+[02Apr2025 16:14:06.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17331ms or 346 ticks behind
+[02Apr2025 16:14:41.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20397ms or 407 ticks behind
+[02Apr2025 16:14:52.648] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[02Apr2025 16:14:52.649] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[02Apr2025 16:14:53.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [A Terrible Fortress]
+[02Apr2025 16:14:55.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [A Terrible Fortress]
+[02Apr2025 16:15:00.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[02Apr2025 16:15:16.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20041ms or 400 ticks behind
+[02Apr2025 16:15:59.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28165ms or 563 ticks behind
+[02Apr2025 16:16:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Firebug]
+[02Apr2025 16:16:35.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20809ms or 416 ticks behind
+[02Apr2025 16:17:00.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:00.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:00.705] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:01.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:01.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:01.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:02.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:02.350] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:02.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:02.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:03.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:03.233] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:03.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:03.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 16:17:06.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15891ms or 317 ticks behind
+[02Apr2025 16:17:13.803] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Apr2025 16:17:42.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21353ms or 427 ticks behind
+[02Apr2025 16:18:22.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24983ms or 499 ticks behind
+[02Apr2025 16:18:52.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15126ms or 302 ticks behind
+[02Apr2025 16:19:26.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18964ms or 379 ticks behind
+[02Apr2025 16:19:59.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18256ms or 365 ticks behind
+[02Apr2025 16:20:28.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [The Soul Forge]
+[02Apr2025 16:20:33.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19235ms or 384 ticks behind
+[02Apr2025 16:20:36.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [The Soul Forge]
+[02Apr2025 16:20:40.175] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[02Apr2025 16:20:40.176] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[02Apr2025 16:20:40.178] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[02Apr2025 16:20:51.281] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[02Apr2025 16:20:51.284] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}

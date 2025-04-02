@@ -314,6 +314,7 @@
       "sweet_berries": "2025-04-01 16:40:08 +0000",
       "tomato": "2025-03-31 19:28:25 +0000",
       "sugar_cane": "2025-03-31 19:25:51 +0000",
+      "potato": "2025-04-02 16:00:25 +0000",
       "wheat": "2025-03-31 19:26:46 +0000"
     },
     "done": false
@@ -595,6 +596,7 @@
       "cooked_mutton": "2025-03-31 22:24:39 +0000",
       "sweet_berries": "2025-04-01 16:40:17 +0000",
       "beetroot_soup": "2025-03-31 21:13:10 +0000",
+      "potato": "2025-04-02 16:00:37 +0000",
       "pumpkin_pie": "2025-04-01 14:06:59 +0000",
       "bread": "2025-03-31 19:30:50 +0000",
       "golden_apple": "2025-04-01 18:31:47 +0000",
@@ -6496,6 +6498,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-02 16:11:39 +0000",
+      "minecraft:nether_wastes": "2025-04-02 16:07:48 +0000"
+    },
+    "done": false
+  },
   "simpleores:recipes/building_blocks/onyx_pressure_plate": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
@@ -6544,6 +6553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-02 16:08:16 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_chestplate": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
@@ -6556,9 +6571,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-02 16:08:40 +0000"
+    },
+    "done": true
+  },
   "simpleores:onyx_axe": {
     "criteria": {
       "has_item": "2025-04-02 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-02 16:07:39 +0000"
     },
     "done": true
   },
@@ -6583,6 +6610,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-04-02 15:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-02 16:07:39 +0000"
     },
     "done": true
   },
