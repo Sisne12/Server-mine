@@ -204,3 +204,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 10:46:35.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hugolacabra> ESCONDEROS!
 [02Apr2025 10:48:09.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Alex's Mobs]
 [02Apr2025 10:49:04.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02Apr2025 10:54:54.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1585, y=69, z=-431} BlockPos{x=1585, y=69, z=-430}
+[02Apr2025 10:57:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [You Are A Pirate]
