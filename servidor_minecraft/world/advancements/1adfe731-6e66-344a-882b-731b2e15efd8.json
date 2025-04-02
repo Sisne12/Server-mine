@@ -6442,9 +6442,39 @@
     },
     "done": true
   },
+  "simpleores:recipes/misc/adamantium_ingot_from_smelting": {
+    "criteria": {
+      "adamantium_ingot_from_smelting": "2025-04-02 14:59:13 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/building_blocks/raw_adamantium_block": {
+    "criteria": {
+      "has_item": "2025-04-02 14:59:13 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/misc/raw_adamantium": {
+    "criteria": {
+      "has_item": "2025-04-02 14:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-02 14:31:40 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/misc/adamantium_ingot_from_blasting": {
+    "criteria": {
+      "adamantium_ingot_from_blasting": "2025-04-02 14:59:13 +0000"
+    },
+    "done": true
+  },
+  "simpleores:main/adamantium_ore": {
+    "criteria": {
+      "got_adamantium_ore": "2025-04-02 14:59:13 +0000"
     },
     "done": true
   },
