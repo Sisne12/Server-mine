@@ -236,3 +236,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 15:13:10.325] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "ErCheito" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=1621, y=63, z=-221}] too quickly!
 [02Apr2025 15:14:07.267] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "ErCheito" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=1621, y=63, z=-221}] too quickly!
 [02Apr2025 15:16:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Ninja Ore]
+[02Apr2025 15:17:13.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has completed the challenge [Turtle-ology Majors Be Like]
+[02Apr2025 15:21:42.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
