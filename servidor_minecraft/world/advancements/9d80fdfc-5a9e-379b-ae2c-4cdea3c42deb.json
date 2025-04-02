@@ -3419,6 +3419,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-04-02 13:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-02 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-02 13:35:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
     "criteria": {
       "has_mine": "2025-04-02 13:35:49 +0000"
@@ -3479,12 +3497,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-04-02 13:28:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
     "criteria": {
       "has_mine": "2025-04-02 13:35:49 +0000"
@@ -3530,12 +3542,6 @@
   "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
     "criteria": {
       "has_mine": "2025-04-02 13:35:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-04-02 13:35:34 +0000"
     },
     "done": true
   },
@@ -3626,12 +3632,6 @@
   "securitycraft:recipes/building_blocks/diamond_mine": {
     "criteria": {
       "has_mine": "2025-04-02 13:35:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-04-02 13:35:34 +0000"
     },
     "done": true
   },
