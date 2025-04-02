@@ -263,3 +263,50 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 15:37:10.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [02Apr2025 15:37:32.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [02Apr2025 15:37:49.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[02Apr2025 15:38:27.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Apr2025 15:38:48.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5819ms or 116 ticks behind
+[02Apr2025 15:39:10.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02Apr2025 15:40:33.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hugolacabra> a
+[02Apr2025 15:41:03.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[02Apr2025 15:41:24.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6017ms or 120 ticks behind
+[02Apr2025 15:41:43.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[02Apr2025 15:42:00.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[02Apr2025 15:42:05.440] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Apr2025 15:42:22.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6501ms or 130 ticks behind
+[02Apr2025 15:42:39.554] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[02Apr2025 15:42:39.595] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[02Apr2025 15:42:39.696] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[02Apr2025 15:42:39.697] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[02Apr2025 15:42:39.698] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[02Apr2025 15:42:39.698] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[02Apr2025 15:42:39.699] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[02Apr2025 15:42:41.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Ice Maze]
+[02Apr2025 15:42:44.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7241ms or 144 ticks behind
+[02Apr2025 15:43:09.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10108ms or 202 ticks behind
+[02Apr2025 15:43:27.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3396ms or 67 ticks behind
+[02Apr2025 15:43:47.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4829ms or 96 ticks behind
+[02Apr2025 15:44:13.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10655ms or 213 ticks behind
+[02Apr2025 15:44:34.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6200ms or 124 ticks behind
+[02Apr2025 15:44:59.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9871ms or 197 ticks behind
+[02Apr2025 15:45:22.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8437ms or 168 ticks behind
+[02Apr2025 15:45:33.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErCheito moved too quickly! 5.610123318669139,-0.6319031399820005,-8.545356540269495
+[02Apr2025 15:45:50.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12948ms or 258 ticks behind
+[02Apr2025 15:46:11.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5984ms or 119 ticks behind
+[02Apr2025 15:46:24.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sisinio21[/127.55.186.226:55189] logged in with entity id 43982 at (1000.4346962432885, 83.0, -935.3075420264281)
+[02Apr2025 15:46:24.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 joined the game
+[02Apr2025 15:46:24.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sisinio21 has reached the goal [Like a fish in water]
+[02Apr2025 15:46:26.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErCheito moved too quickly! -8.744449546447413,0.22768848754498805,-5.3585896174427035
+[02Apr2025 15:46:36.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10075ms or 201 ticks behind
+[02Apr2025 15:46:48.200] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[02Apr2025 15:46:48.311] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[02Apr2025 15:46:48.370] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[02Apr2025 15:46:48.372] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[02Apr2025 15:46:48.372] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[02Apr2025 15:46:48.373] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[02Apr2025 15:46:48.374] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[02Apr2025 15:46:57.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6466ms or 129 ticks behind
+[02Apr2025 15:47:25.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12074ms or 241 ticks behind
+[02Apr2025 15:47:50.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10457ms or 209 ticks behind
+[02Apr2025 15:48:18.624] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Apr2025 15:48:21.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15630ms or 312 ticks behind
+[02Apr2025 15:48:51.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14971ms or 299 ticks behind
