@@ -6954,7 +6954,12 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-04-01 20:09:38 +0000"
+      "cabbage": "2025-04-02 19:08:11 +0000",
+      "onion": "2025-04-02 19:05:47 +0000",
+      "tomato": "2025-04-02 19:07:15 +0000",
+      "sugar_cane": "2025-04-01 20:09:38 +0000",
+      "potato": "2025-04-02 19:05:55 +0000",
+      "carrot": "2025-04-02 19:04:47 +0000"
     },
     "done": false
   },
@@ -7378,12 +7383,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-02 18:02:14 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-04-02 17:47:47 +0000"
@@ -7420,12 +7419,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-02 17:53:55 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-04-02 17:47:47 +0000"
@@ -7435,12 +7428,6 @@
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-02 17:47:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-02 17:53:55 +0000"
     },
     "done": true
   },
@@ -7492,27 +7479,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-02 18:02:14 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-04-02 17:47:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-04-02 17:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-02 18:02:14 +0000"
     },
     "done": true
   },
@@ -7528,21 +7497,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-02 17:53:55 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-04-02 17:47:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-02 17:53:55 +0000"
     },
     "done": true
   },
@@ -7555,6 +7512,210 @@
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-02 17:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-02 17:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-02 17:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-02 17:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-02 17:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-02 17:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-02 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-02 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-02 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-02 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-02 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-02 19:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-02 19:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-02 19:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-02 19:47:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-02 19:47:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-04-02 19:38:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-02 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-02 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-02 19:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-02 19:00:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-02 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-02 19:25:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-02 19:26:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-04-02 19:00:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-02 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-04-02 19:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-02 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-02 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-04-02 19:00:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-04-02 19:00:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-04-02 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-02 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-02 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-04-02 19:26:02 +0000"
     },
     "done": true
   },
