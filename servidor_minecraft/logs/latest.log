@@ -228,3 +228,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 19:04:00.837] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/916, l='ServerLevel[world]', x=-955.68, y=43.00, z=-2733.30] died: Unlicensed Alchemist was slain by Sisinio21
 [03Apr2025 19:04:00.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/984, l='ServerLevel[world]', x=-955.31, y=43.00, z=-2733.30] died: Unlicensed Alchemist was slain by Sisinio21
 [03Apr2025 19:13:18.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
+[03Apr2025 19:14:37.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Nightmare Fuel]
+[03Apr2025 19:22:05.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: claaro[/127.147.94.117:34085] logged in with entity id 8244 at (1965.822568614542, 64.0, -37.14792935385616)
+[03Apr2025 19:22:05.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claaro joined the game
+[03Apr2025 19:22:31.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03Apr2025 19:22:32.806] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03Apr2025 19:22:51.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
