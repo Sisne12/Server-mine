@@ -2520,6 +2520,7 @@
       "minecraft:spider": "2025-03-31 20:17:19 +0000",
       "minecraft:piglin_brute": "2025-04-01 14:54:52 +0000",
       "minecraft:creeper": "2025-03-31 20:16:50 +0000",
+      "minecraft:wither": "2025-04-04 11:04:56 +0000",
       "minecraft:slime": "2025-04-01 12:45:15 +0000",
       "minecraft:evoker": "2025-04-01 20:38:03 +0000",
       "minecraft:phantom": "2025-04-01 12:41:13 +0000",
@@ -7880,6 +7881,18 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-04-03 15:13:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-04-04 11:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-04 11:04:18 +0000"
     },
     "done": true
   },

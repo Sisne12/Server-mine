@@ -199,3 +199,68 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Apr2025 10:40:00.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff joined the game
 [04Apr2025 10:40:46.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
 [04Apr2025 10:44:43.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4522ms or 90 ticks behind
+[04Apr2025 10:45:30.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[04Apr2025 10:48:34.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[04Apr2025 11:03:07.543] [Worker-Main-47/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-18193, y=-41, z=2787}
+[04Apr2025 11:03:08.111] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-18193, y=-41, z=2787}
+[04Apr2025 11:03:23.902] [Worker-Main-47/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-18193, y=-41, z=2787}
+[04Apr2025 11:03:31.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[04Apr2025 11:04:11.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[04Apr2025 11:04:18.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra has made the advancement [Withering Heights]
+[04Apr2025 11:04:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has made the advancement [Withering Heights]
+[04Apr2025 11:04:56.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TurnOff has reached the goal [Strong Undead]
+[04Apr2025 11:08:41.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErCheito[/127.190.186.81:38809] logged in with entity id 14877 at (2578.4705851536314, 93.0, -4839.329476329281)
+[04Apr2025 11:08:41.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito joined the game
+[04Apr2025 11:08:43.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
+[04Apr2025 11:09:00.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Apr2025 11:09:21.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Apr2025 11:09:21.940] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.268] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.340] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.409] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.596] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.742] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.805] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:22.881] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.332] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.403] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.704] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:23.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:24.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:24.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:24.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:24.602] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:24.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:24.869] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:24.968] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.581] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.679] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:25.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:27.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:27.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:28.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:28.157] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:28.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:28.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2025 11:09:38.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[04Apr2025 11:10:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErCheito has made the advancement [Crops of the Wild]
+[04Apr2025 11:12:59.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugolacabra blew up
+[04Apr2025 11:12:59.294] [Server thread/INFO] [tombstone/]: The player hugolacabra has successfully been saved
+[04Apr2025 11:14:16.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
