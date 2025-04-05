@@ -6398,5 +6398,17 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-04-05 12:44:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-04-05 12:44:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
