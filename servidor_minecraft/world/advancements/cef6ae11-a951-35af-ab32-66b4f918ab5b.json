@@ -9522,27 +9522,153 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
-    "criteria": {
-      "has_mine": "2025-04-04 20:44:39 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_gum_worm": {
     "criteria": {
       "killed": "2025-04-04 19:39:30 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/gold_mine": {
+  "alexscaves:alexscaves/gelatin": {
     "criteria": {
-      "has_mine": "2025-04-04 20:44:39 +0000"
+      "gelatin": "2025-04-04 19:41:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-04-04 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-04-04 19:43:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sack_of_sating": {
+    "criteria": {
+      "mussel": "2025-04-04 20:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-04 20:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-04-04 20:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-04-04 20:35:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-04 20:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-04-04 20:44:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-04-04 20:44:39 +0000"
     },
     "done": true
   },
@@ -9570,51 +9696,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/deepslate_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-04-04 21:25:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-04-04 20:20:28 +0000"
     },
     "done": true
   },
@@ -9636,12 +9726,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-04 21:24:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/cobblestone_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
@@ -9651,12 +9735,6 @@
   "securitycraft:recipes/building_blocks/coal_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-04 21:30:58 +0000"
     },
     "done": true
   },
@@ -9672,27 +9750,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-04 21:24:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2025-04-04 21:18:35 +0000"
     },
     "done": true
   },
@@ -9711,12 +9771,6 @@
   "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
     },
     "done": true
   },
@@ -9741,18 +9795,6 @@
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-04-04 21:37:56 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
-    "criteria": {
-      "crumbs": "2025-04-04 19:43:49 +0000"
     },
     "done": true
   },
@@ -9804,99 +9846,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sack_of_sating": {
-    "criteria": {
-      "mussel": "2025-04-04 20:03:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-04 21:24:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gelatin": {
-    "criteria": {
-      "gelatin": "2025-04-04 19:41:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/nether_gold_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-04-04 20:35:10 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_maledictus": {
-    "criteria": {
-      "ignis": "2025-04-04 21:25:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-04 21:24:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/diamond_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-04-04 20:16:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2025-04-04 19:43:44 +0000"
     },
     "done": true
   },
@@ -9912,27 +9870,69 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-04-04 21:37:56 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
     "criteria": {
       "has_mine": "2025-04-04 20:44:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "cataclysm:find_frosted_prison": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+      "prison": "2025-04-04 21:18:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-04 20:22:59 +0000"
+      "has_polished_andesite": "2025-04-04 21:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-04 21:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-04 21:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-04 21:24:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-04-04 21:25:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-04-04 21:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-04 21:30:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-04-04 21:37:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-04-04 21:37:56 +0000"
     },
     "done": true
   },
